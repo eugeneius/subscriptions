@@ -338,13 +338,13 @@
     <outline title="Feeds" text="Feeds">
       <outline type="rss" title="Grantland: Tevis Thompson" text="Grantland: Tevis Thompson" htmlUrl="http://www.grantland.com" xmlUrl="http://www.grantland.com/feed?name=tevis+thompson"/>
       <outline type="rss" title="Grantland: Andy Greenwald" text="Grantland: Andy Greenwald" htmlUrl="http://www.grantland.com" xmlUrl="http://www.grantland.com/feed?name=andy+greenwald"/>
-      <outline type="rss" title="The A.V. Club - For Our Consideration" text="The A.V. Club - For Our Consideration" htmlUrl="http://www.avclub.com/features/for-our-consideration/" xmlUrl="http://www.avclub.com/feed/for-our-consideration/"/>
-      <outline type="rss" title="The A.V. Club - Gateways To Geekery" text="The A.V. Club - Gateways To Geekery" htmlUrl="http://www.avclub.com/features/gateways-to-geekery/" xmlUrl="http://www.avclub.com/feed/gateways-to-geekery/"/>
-      <outline type="rss" title="The A.V. Club - Internet Film School" text="The A.V. Club - Internet Film School" htmlUrl="http://www.avclub.com/features/internet-film-school/" xmlUrl="http://www.avclub.com/feed/internet-film-school/"/>
-      <outline type="rss" title="The A.V. Club - Movie Review" text="The A.V. Club - Movie Review" htmlUrl="http://www.avclub.com/reviews/film/" xmlUrl="http://www.avclub.com/feed/movie-review/"/>
-      <outline type="rss" title="The A.V. Club - The New Cult Canon" text="The A.V. Club - The New Cult Canon" htmlUrl="http://www.avclub.com/features/the-new-cult-canon/" xmlUrl="http://www.avclub.com/feed/the-new-cult-canon/"/>
-      <outline type="rss" title="The A.V. Club - The Walkthrough" text="The A.V. Club - The Walkthrough" htmlUrl="http://www.avclub.com/features/the-walkthrough/" xmlUrl="http://www.avclub.com/feed/the-walkthrough/"/>
-      <outline type="rss" title="The A.V. Club - TV Club" text="The A.V. Club - TV Club" htmlUrl="http://www.avclub.com/tvclub/watched/" xmlUrl="http://www.avclub.com/feed/tv-club/"/>
+      <outline type="rss" title="The A.V. Club - For Our Consideration" text="The A.V. Club - For Our Consideration" htmlUrl="http://www.avclub.com/search?feature_types=for-our-consideration" xmlUrl="http://www.avclub.com/feed/rss?feature_types=for-our-consideration"/>
+      <outline type="rss" title="The A.V. Club - Gateways To Geekery" text="The A.V. Club - Gateways To Geekery" htmlUrl="http://www.avclub.com/search?feature_types=gateways-to-geekery" xmlUrl="http://www.avclub.com/feed/rss?feature_types=gateways-to-geekery"/>
+      <outline type="rss" title="The A.V. Club - Internet Film School" text="The A.V. Club - Internet Film School" htmlUrl="http://www.avclub.com/search?feature_types=internet-film-school" xmlUrl="http://www.avclub.com/feed/rss?feature_types=internet-film-school"/>
+      <outline type="rss" title="The A.V. Club - Movie Review" text="The A.V. Club - Movie Review" htmlUrl="http://www.avclub.com/search?feature_types=movie-review" xmlUrl="http://www.avclub.com/feed/rss?feature_types=movie-review"/>
+      <outline type="rss" title="The A.V. Club - The New Cult Canon" text="The A.V. Club - The New Cult Canon" htmlUrl="http://www.avclub.com/search?feature_types=the-new-cult-canon" xmlUrl="http://www.avclub.com/feed/rss?feature_types=the-new-cult-canon"/>
+      <outline type="rss" title="The A.V. Club - The Walkthrough" text="The A.V. Club - The Walkthrough" htmlUrl="http://www.avclub.com/search?feature_types=the-walkthrough" xmlUrl="http://www.avclub.com/feed/rss?feature_types=the-walkthrough"/>
+      <outline type="rss" title="The A.V. Club - TV Club" text="The A.V. Club - TV Club" htmlUrl="http://www.avclub.com/search?feature_types=tv-club" xmlUrl="http://www.avclub.com/feed/rss?feature_types=tv-club"/>
     </outline>
     <outline title="Game Developers" text="Game Developers">
       <outline type="rss" title="100 Rogues | An Arcade-Style Role Playing Game for iPhone &amp; iPod Touch" text="100 Rogues | An Arcade-Style Role Playing Game for iPhone &amp; iPod Touch" htmlUrl="http://www.100rogues.com" xmlUrl="http://www.100rogues.com/feed/"/>
