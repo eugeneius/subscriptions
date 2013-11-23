@@ -269,6 +269,7 @@
       <outline type="rss" title="Pinboard" text="Pinboard" htmlUrl="https://blog.pinboard.in/" xmlUrl="https://blog.pinboard.in/feed/"/>
       <outline type="rss" title="Postmark Blog" text="Postmark Blog" htmlUrl="http://blog.postmarkapp.com/" xmlUrl="http://blog.postmarkapp.com/rss"/>
       <outline type="rss" title="Rdio Developer Blog" text="Rdio Developer Blog" htmlUrl="http://blog.rdio.com/developers/" xmlUrl="http://blog.rdio.com/developers/atom.xml"/>
+      <outline type="rss" title="Scout ~ The Blog" text="Scout ~ The Blog" htmlUrl="http://blog.scoutapp.com/" xmlUrl="http://feeds.feedburner.com/scoutapp"/>
       <outline type="rss" title="Sifter Changelog" text="Sifter Changelog" htmlUrl="http://journal.sifterapp.com/changelog/" xmlUrl="http://journal.sifterapp.com/changelog/feed/"/>
       <outline type="rss" title="Sifter Blog" text="Sifter Blog" htmlUrl="http://journal.sifterapp.com/blog/" xmlUrl="http://journal.sifterapp.com/blog/feed/"/>
       <outline type="rss" title="Signal vs. Noise" text="Signal vs. Noise" htmlUrl="http://37signals.com/svn/posts" xmlUrl="http://37signals.com/svn/posts.rss"/>
