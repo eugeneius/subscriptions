@@ -434,7 +434,6 @@
       <outline type="rss" title="Towards Dawn" text="Towards Dawn" htmlUrl="http://towardsdawns.blogspot.com/" xmlUrl="http://towardsdawns.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="Unwinnable » Gus Mastrapa" text="Unwinnable » Gus Mastrapa" htmlUrl="http://www.unwinnable.com" xmlUrl="http://www.unwinnable.com/author/gus-mastrapa/feed/"/>
       <outline type="rss" title="Uploads by jeffandcaseyshow" text="Uploads by jeffandcaseyshow" htmlUrl="http://www.youtube.com/channel/UCfBZ8TgdcGbdXz3CAUgr9_A/videos" xmlUrl="http://gdata.youtube.com/feeds/base/users/jeffandcaseyshow/uploads"/>
-      <outline type="rss" title="Zero Punctuation" text="Zero Punctuation" htmlUrl="http://www.escapistmagazine.com/videos/view/zero-punctuation" xmlUrl="http://www.escapistmagazine.com/rss/videos/list/1.xml"/>
     </outline>
     <outline title="Gaming News" text="Gaming News">
       <outline type="rss" title="Bytejacker" text="Bytejacker" htmlUrl="http://www.bytejacker.com" xmlUrl="http://www.bytejacker.com/feed"/>
