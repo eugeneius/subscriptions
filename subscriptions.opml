@@ -205,6 +205,7 @@
       <outline type="rss" title="When in git" text="When in git" htmlUrl="http://wheningit.tumblr.com/" xmlUrl="http://wheningit.tumblr.com/rss"/>
     </outline>
     <outline title="Comics" text="Comics">
+      <outline type="rss" title="A Lesson Is Learned But The Damage Is Irreversible" text="A Lesson Is Learned But The Damage Is Irreversible" htmlUrl="http://www.alessonislearned.com/" xmlUrl="http://www.kafsemo.org/rss/filters/live/http___www_alessonislearned_com_archive_php.rss"/>
       <outline type="rss" title="Achewood" text="Achewood" htmlUrl="http://www.achewood.com/" xmlUrl="http://www.achewood.com/rss.php"/>
       <outline type="rss" title="Alarming Predicament" text="Alarming Predicament" htmlUrl="http://alarmingpredicament.tumblr.com/" xmlUrl="http://alarmingpredicament.tumblr.com/rss"/>
       <outline type="rss" title="Bad Machinery" text="Bad Machinery" htmlUrl="http://scarygoround.com" xmlUrl="http://badmachinery.com/index.xml"/>
