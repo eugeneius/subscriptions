@@ -294,6 +294,7 @@
       <outline type="rss" title="Uploads by github" text="Uploads by github" htmlUrl="http://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ/videos" xmlUrl="http://gdata.youtube.com/feeds/base/users/github/uploads"/>
     </outline>
     <outline title="Developers" text="Developers">
+      <outline type="rss" title="@tmm1" text="@tmm1" htmlUrl="http://tmm1.net/" xmlUrl="http://tmm1.net/atom.xml"/>
       <outline type="rss" title="a Hint of Creative" text="a Hint of Creative" htmlUrl="http://joelb.me/blog/" xmlUrl="http://joelb.me/blog/feed/"/>
       <outline type="rss" title="aidanf.net" text="aidanf.net" htmlUrl="http://www.aidanf.net" xmlUrl="http://feeds2.feedburner.com/aidanf"/>
       <outline type="rss" title="Alex MacCaw" text="Alex MacCaw" htmlUrl="http://blog.alexmaccaw.com" xmlUrl="http://blog.alexmaccaw.com/feed"/>
