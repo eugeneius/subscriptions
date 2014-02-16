@@ -350,8 +350,7 @@
       <outline type="rss" title="Zach Holman" text="Zach Holman" htmlUrl="http://zachholman.com/" xmlUrl="http://zachholman.com/atom.xml"/>
     </outline>
     <outline title="Feeds" text="Feeds">
-      <outline type="rss" title="Grantland: Tevis Thompson" text="Grantland: Tevis Thompson" htmlUrl="http://www.grantland.com" xmlUrl="http://www.grantland.com/feed?name=tevis+thompson"/>
-      <outline type="rss" title="Grantland: Andy Greenwald" text="Grantland: Andy Greenwald" htmlUrl="http://www.grantland.com" xmlUrl="http://www.grantland.com/feed?name=andy+greenwald"/>
+      <outline type="rss" title="Grantland: Andy Greenwald" text="Grantland: Andy Greenwald" htmlUrl="http://grantland.com/contributors/andy-greenwald/" xmlUrl="http://grantland.com/contributors/andy-greenwald/feed/"/>
       <outline type="rss" title="The A.V. Club - For Our Consideration" text="The A.V. Club - For Our Consideration" htmlUrl="http://www.avclub.com/search?feature_types=for-our-consideration" xmlUrl="http://www.avclub.com/feed/rss?feature_types=for-our-consideration"/>
       <outline type="rss" title="The A.V. Club - Gateways To Geekery" text="The A.V. Club - Gateways To Geekery" htmlUrl="http://www.avclub.com/search?feature_types=gateways-to-geekery" xmlUrl="http://www.avclub.com/feed/rss?feature_types=gateways-to-geekery"/>
       <outline type="rss" title="The A.V. Club - Internet Film School" text="The A.V. Club - Internet Film School" htmlUrl="http://www.avclub.com/search?feature_types=internet-film-school" xmlUrl="http://www.avclub.com/feed/rss?feature_types=internet-film-school"/>
@@ -429,7 +428,8 @@
       <outline type="rss" title="Critical Damage" text="Critical Damage" htmlUrl="http://critdamage.blogspot.com/" xmlUrl="http://critdamage.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="Fullbright" text="Fullbright" htmlUrl="http://www.fullbrightdesign.com/" xmlUrl="http://www.fullbrightdesign.com/feeds/posts/default"/>
       <outline type="rss" title="Game Design Advance" text="Game Design Advance" htmlUrl="http://gamedesignadvance.com" xmlUrl="http://gamedesignadvance.com/?feed=rss2"/>
-      <outline type="rss" title="Grantland: Tom Bissell" text="Grantland: Tom Bissell" htmlUrl="http://www.grantland.com" xmlUrl="http://www.grantland.com/feed?name=tom+bissell"/>
+      <outline type="rss" title="Grantland: Tevis Thompson" text="Grantland: Tevis Thompson" htmlUrl="http://grantland.com/contributors/tevis-thompson/" xmlUrl="http://grantland.com/contributors/tevis-thompson/feed/"/>
+      <outline type="rss" title="Grantland: Tom Bissell" text="Grantland: Tom Bissell" htmlUrl="http://grantland.com/contributors/tom-bissell/" xmlUrl="http://grantland.com/contributors/tom-bissell/feed/"/>
       <outline type="rss" title="Kotaku: Deus Ex Letters" text="Kotaku: Deus Ex Letters" htmlUrl="http://kotaku.com" xmlUrl="http://kotaku.com/tag/deus-ex-letters/rss"/>
       <outline type="rss" title="Leigh Alexander" text="Leigh Alexander" htmlUrl="http://leighalexander.net" xmlUrl="http://leighalexander.net/feed/"/>
       <outline type="rss" title="Lost Garden" text="Lost Garden" htmlUrl="http://www.lostgarden.com/" xmlUrl="http://www.lostgarden.com/atom.xml"/>
