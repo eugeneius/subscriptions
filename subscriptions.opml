@@ -162,7 +162,6 @@
       <outline type="rss" title="Damn Interesting" text="Damn Interesting" htmlUrl="http://www.damninteresting.com" xmlUrl="http://www.damninteresting.com/feed"/>
       <outline type="rss" title="Derek Sivers" text="Derek Sivers" htmlUrl="http://sivers.org/" xmlUrl="http://sivers.org/en.atom"/>
       <outline type="rss" title="DevOps Reactions" text="DevOps Reactions" htmlUrl="http://devopsreactions.tumblr.com/" xmlUrl="http://devopsreactions.tumblr.com/rss"/>
-      <outline type="rss" title="diggreader@mmmmail.com" text="diggreader@mmmmail.com" htmlUrl="http://www.mmmmail.com/diggreader.xml" xmlUrl="http://www.mmmmail.com/diggreader.xml"/>
       <outline type="rss" title="Film Blather" text="Film Blather" htmlUrl="http://filmblather.com" xmlUrl="http://filmblather.com/feed/"/>
       <outline type="rss" title="From the design-loving folks at Logo24—writing about design and stuff" text="From the design-loving folks at Logo24—writing about design and stuff" htmlUrl="http://blog.logo24.com" xmlUrl="http://blog.logo24.com/feed/"/>
       <outline type="rss" title="grep - Roast Beef" text="grep - Roast Beef" htmlUrl="http://rbeef.blogspot.com/" xmlUrl="http://rbeef.blogspot.com/atom.xml"/>
@@ -479,7 +478,6 @@
       <outline type="rss" title="8th Light Blog" text="8th Light Blog" htmlUrl="http://blog.8thlight.com/" xmlUrl="http://blog.8thlight.com/feed/atom.xml"/>
       <outline type="rss" title="Alex Payne" text="Alex Payne" htmlUrl="https://al3x.net/" xmlUrl="https://al3x.net/atom.xml"/>
       <outline type="rss" title="API Digest" text="API Digest" htmlUrl="http://apidigest.com/" xmlUrl="http://apidigest.com/posts/?format=rss"/>
-      <outline type="rss" title="apidigest@mmmmail.com" text="apidigest@mmmmail.com" htmlUrl="http://www.mmmmail.com/apidigest.xml" xmlUrl="http://www.mmmmail.com/apidigest.xml"/>
       <outline type="rss" title="Articles from Inc.com by Jason Fried" text="Articles from Inc.com by Jason Fried" htmlUrl="http://www.inc.com/author/jason-fried" xmlUrl="http://www.inc.com/rss/author/jason-fried.xml"/>
       <outline type="rss" title="Coding Horror" text="Coding Horror" htmlUrl="http://www.codinghorror.com/blog/" xmlUrl="http://www.codinghorror.com/blog/index.xml"/>
       <outline type="rss" title="Cowboy Programming" text="Cowboy Programming" htmlUrl="http://cowboyprogramming.com" xmlUrl="http://cowboyprogramming.com/feed/"/>
