@@ -287,6 +287,7 @@
       <outline type="rss" title="Sifter Blog" text="Sifter Blog" htmlUrl="https://sifterapp.com/blog/" xmlUrl="https://sifterapp.com/feeds/blog.xml"/>
       <outline type="rss" title="Signal vs. Noise" text="Signal vs. Noise" htmlUrl="http://37signals.com/svn/posts" xmlUrl="http://37signals.com/svn/posts.rss"/>
       <outline type="rss" title="Sublime Blog" text="Sublime Blog" htmlUrl="http://www.sublimetext.com/blog" xmlUrl="http://www.sublimetext.com/blog/feed"/>
+      <outline type="rss" title="SubToMe" text="SubToMe" htmlUrl="http://docs.subtome.com" xmlUrl="http://docs.subtome.com/feed.xml"/>
       <outline type="rss" title="Superfeedr Blog" text="Superfeedr Blog" htmlUrl="http://blog.superfeedr.com/" xmlUrl="http://blog.superfeedr.com/atom.xml"/>
       <outline type="rss" title="Tapbots Blog" text="Tapbots Blog" htmlUrl="http://tapbots.com/blog" xmlUrl="http://tapbots.com/blog/feed"/>
       <outline type="rss" title="The Contrast Blog" text="The Contrast Blog" htmlUrl="http://contrast.ie/blog" xmlUrl="http://contrast.ie/blog/feed/atom/"/>
