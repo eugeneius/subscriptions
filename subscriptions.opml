@@ -275,6 +275,7 @@
       <outline type="rss" title="HipChat Blog" text="HipChat Blog" htmlUrl="http://blog.hipchat.com" xmlUrl="http://blog.hipchat.com/feed/"/>
       <outline type="rss" title="Instagram Engineering" text="Instagram Engineering" htmlUrl="http://instagram-engineering.tumblr.com/" xmlUrl="http://instagram-engineering.tumblr.com/rss"/>
       <outline type="rss" title="Intercom Changes" text="Intercom Changes" htmlUrl="https://www.intercom.io/changes" xmlUrl="https://www.intercom.io/changes.atom"/>
+      <outline type="rss" title="LinkedIn Engineering" text="LinkedIn Engineering" htmlUrl="http://engineering.linkedin.com/blog" xmlUrl="http://engineering.linkedin.com/rss.xml"/>
       <outline type="rss" title="MongoHQ Blog" text="MongoHQ Blog" htmlUrl="http://blog.mongohq.com" xmlUrl="http://blog.mongohq.com/feed/"/>
       <outline type="rss" title="NFSN Blog" text="NFSN Blog" htmlUrl="http://blog.nearlyfreespeech.net" xmlUrl="http://blog.nearlyfreespeech.net/feed/"/>
       <outline type="rss" title="Phusion Corporate Blog" text="Phusion Corporate Blog" htmlUrl="http://blog.phusion.nl" xmlUrl="http://blog.phusion.nl/feed/"/>
