@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline title="Appshopper" text="Appshopper">
+      <outline type="rss" title="AppShopper.com: A Dark Room" text="AppShopper.com: A Dark Room" htmlUrl="http://appshopper.com/games/a-dark-room" xmlUrl="http://appshopper.com/feed/?platform=ios&amp;appname=a-dark-room"/>
       <outline type="rss" title="AppShopper.com: Across Age ™ DX" text="AppShopper.com: Across Age ™ DX" htmlUrl="http://appshopper.com/games/across-age-dx" xmlUrl="http://appshopper.com/feed/?platform=ios&amp;appname=across-age-dx"/>
       <outline type="rss" title="AppShopper.com: Age of Zombies™" text="AppShopper.com: Age of Zombies™" htmlUrl="http://appshopper.com/games/age-of-zombies" xmlUrl="http://appshopper.com/feed/?platform=ios&amp;appname=age-of-zombies"/>
       <outline type="rss" title="AppShopper.com: Air Supply - 1bit Run" text="AppShopper.com: Air Supply - 1bit Run" htmlUrl="http://appshopper.com/games/air-supply-1bit-run" xmlUrl="http://appshopper.com/feed/?platform=ios&amp;appname=air-supply-1bit-run"/>
