@@ -273,6 +273,7 @@
       <outline type="rss" title="Feedbin Blog" text="Feedbin Blog" htmlUrl="http://blog.feedbin.me" xmlUrl="http://blog.feedbin.me/atom.xml"/>
       <outline type="rss" title="Fog Creek Blog" text="Fog Creek Blog" htmlUrl="http://blog.fogcreek.com" xmlUrl="http://blog.fogcreek.com/feed/"/>
       <outline type="rss" title="Giant Robots Smashing Into Other Giant Robots" text="Giant Robots Smashing Into Other Giant Robots" htmlUrl="http://robots.thoughtbot.com" xmlUrl="http://robots.thoughtbot.com/feed.xml"/>
+      <outline type="rss" title="GitHub Showcases" text="GitHub Showcases" htmlUrl="https://github.com/showcases" xmlUrl="https://github.com/showcases.atom"/>
       <outline type="rss" title="Groupon Engineering Blog" text="Groupon Engineering Blog" htmlUrl="https://engineering.groupon.com" xmlUrl="https://engineering.groupon.com/feed/"/>
       <outline type="rss" title="HipChat Blog" text="HipChat Blog" htmlUrl="http://blog.hipchat.com" xmlUrl="http://blog.hipchat.com/feed/"/>
       <outline type="rss" title="Instagram Engineering" text="Instagram Engineering" htmlUrl="http://instagram-engineering.tumblr.com/" xmlUrl="http://instagram-engineering.tumblr.com/rss"/>
