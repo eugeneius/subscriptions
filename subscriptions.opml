@@ -147,6 +147,7 @@
       <outline type="rss" title="BOOKWAR" text="BOOKWAR" htmlUrl="http://bookwar.tumblr.com" xmlUrl="http://bookwar.tumblr.com/rss"/>
       <outline type="rss" title="blog.murph.ie" text="blog.murph.ie" htmlUrl="http://blog.murph.ie" xmlUrl="http://blog.murph.ie/rss/"/>
       <outline type="rss" title="Changeloggery" text="Changeloggery" htmlUrl="http://backloggery.tumblr.com/" xmlUrl="http://backloggery.tumblr.com/rss"/>
+      <outline type="rss" title="Cian Clarke" text="Cian Clarke" htmlUrl="http://cianclarke.com/blog" xmlUrl="http://cianclarke.com/blog/?feed=atom"/>
       <outline type="rss" title="Cillian's Favourites" text="Cillian's Favourites" htmlUrl="http://feeds.delicious.com/v2/rss/cillians/favourites" xmlUrl="http://feeds.delicious.com/v2/rss/cillians/favourites"/>
       <outline type="rss" title="Cillian's Shared Quotes" text="Cillian's Shared Quotes" htmlUrl="http://feeds.delicious.com/v2/rss/cillians/quotes" xmlUrl="http://feeds.delicious.com/v2/rss/cillians/quotes"/>
       <outline type="rss" title="Clay Shirky" text="Clay Shirky" htmlUrl="http://www.shirky.com/weblog" xmlUrl="http://www.shirky.com/weblog/feed/"/>
@@ -304,7 +305,6 @@
       <outline type="rss" title="Bill de hOra" text="Bill de hOra" htmlUrl="http://dehora.net/journal/atom.xml" xmlUrl="http://dehora.net/journal/atom.xml"/>
       <outline type="rss" title="Ben Bleikamp" text="Ben Bleikamp" htmlUrl="http://bleikamp.com" xmlUrl="http://bleikamp.com/feed.xml"/>
       <outline type="rss" title="Chris Dixon" text="Chris Dixon" htmlUrl="http://cdixon.org" xmlUrl="http://cdixon.org/feed/"/>
-      <outline type="rss" title="Cian Clarke" text="Cian Clarke" htmlUrl="http://cianclarke.com/blog" xmlUrl="http://cianclarke.com/blog/?feed=atom"/>
       <outline type="rss" title="Conor McDermottroe" text="Conor McDermottroe" htmlUrl="http://www.mcdermottroe.com/blog" xmlUrl="http://www.mcdermottroe.com/blog/feed/"/>
       <outline type="rss" title="Conroyp.com" text="Conroyp.com" htmlUrl="http://www.conroyp.com" xmlUrl="http://www.conroyp.com/feed/"/>
       <outline type="rss" title="Creating Contagious Enthusiasm" text="Creating Contagious Enthusiasm" htmlUrl="http://www.robinblandford.com/" xmlUrl="http://www.robinblandford.com/blog?format=rss"/>
