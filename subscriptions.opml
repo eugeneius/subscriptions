@@ -215,10 +215,13 @@
       <outline type="rss" title="Butternutsquash" text="Butternutsquash" htmlUrl="http://www.butternutsquash.net/" xmlUrl="http://www.butternutsquash.net/feed/"/>
       <outline type="rss" title="Byron Pinkleton" text="Byron Pinkleton" htmlUrl="http://www.byronpinkleton.com" xmlUrl="http://www.rsspect.com/rss/pinkletonfeed.xml"/>
       <outline type="rss" title="Camp Weedonwantcha" text="Camp Weedonwantcha" htmlUrl="http://campcomic.com" xmlUrl="http://campcomic.com/rss"/>
+      <outline type="rss" title="Channelate" text="Channelate" htmlUrl="http://www.channelate.com" xmlUrl="http://www.channelate.com/feed/"/>
+      <outline type="rss" title="Completely Serious Comics" text="Completely Serious Comics" htmlUrl="http://completelyseriouscomics.com" xmlUrl="http://completelyseriouscomics.com/?feed=rss2"/>
       <outline type="rss" title="Ctrl+Alt+Del" text="Ctrl+Alt+Del" htmlUrl="http://www.cad-comic.com/" xmlUrl="http://www.cad-comic.com/rss/rss.xml"/>
       <outline type="rss" title="Dinosaur Comics" text="Dinosaur Comics" htmlUrl="http://www.qwantz.com" xmlUrl="http://www.rsspect.com/rss/qwantz.xml"/>
       <outline type="rss" title="Dr. McNinja" text="Dr. McNinja" htmlUrl="http://drmcninja.com" xmlUrl="http://drmcninja.com/feed/"/>
       <outline type="rss" title="Dresden Codak" text="Dresden Codak" htmlUrl="http://dresdencodak.com" xmlUrl="http://dresdencodak.com/feed/"/>
+      <outline type="rss" title="Explosm.net" text="Explosm.net" htmlUrl="http://explosm.net" xmlUrl="http://feeds.feedburner.com/Explosm"/>
       <outline type="rss" title="Goats" text="Goats" htmlUrl="http://www.goats.com/" xmlUrl="http://goats.com/feed/"/>
       <outline type="rss" title="Gun Show" text="Gun Show" htmlUrl="http://gunshowcomic.com" xmlUrl="http://www.rsspect.com/rss/gunshowcomic.xml"/>
       <outline type="rss" title="Happle Tea" text="Happle Tea" htmlUrl="http://www.happletea.com" xmlUrl="http://www.happletea.com/feed/"/>
@@ -235,8 +238,10 @@
       <outline type="rss" title="Penny Arcade" text="Penny Arcade" htmlUrl="http://www.penny-arcade.com" xmlUrl="http://feeds.penny-arcade.com/pa-mainsite"/>
       <outline type="rss" title="Questionable Content" text="Questionable Content" htmlUrl="http://www.questionablecontent.net" xmlUrl="http://www.questionablecontent.net/QCRSS.xml"/>
       <outline type="rss" title="Ratfist" text="Ratfist" htmlUrl="http://ratfist.com" xmlUrl="http://ratfist.com/feed/"/>
+      <outline type="rss" title="S O R R Y C O M I C S" text="S O R R Y C O M I C S" htmlUrl="http://sorrycomics.blogspot.com/" xmlUrl="http://sorrycomics.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="Saturday Morning Breakfast Cereal" text="Saturday Morning Breakfast Cereal" htmlUrl="http://www.smbc-comics.com" xmlUrl="http://www.smbc-comics.com/rss.php"/>
       <outline type="rss" title="Sin Titulo" text="Sin Titulo" htmlUrl="http://www.sintitulocomic.com" xmlUrl="http://www.sintitulocomic.com/feed/"/>
+      <outline type="rss" title="SPACE AVALANCHE" text="SPACE AVALANCHE" htmlUrl="http://www.spaceavalanche.com" xmlUrl="http://www.spaceavalanche.com/feed/"/>
       <outline type="rss" title="The Meek" text="The Meek" htmlUrl="http://www.meekcomic.com" xmlUrl="http://www.meekcomic.com/feed/"/>
       <outline type="rss" title="The Perry Bible Fellowship" text="The Perry Bible Fellowship" htmlUrl="http://pbfcomics.com" xmlUrl="http://pbfcomics.com/feed/feed.xml"/>
       <outline type="rss" title="The Trenches" text="The Trenches" htmlUrl="http://trenchescomic.com" xmlUrl="http://trenchescomic.com/feed"/>
