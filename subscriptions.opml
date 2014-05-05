@@ -298,6 +298,7 @@
       <outline type="rss" title="Tumblr Engineering" text="Tumblr Engineering" htmlUrl="http://engineering.tumblr.com/" xmlUrl="http://engineering.tumblr.com/rss"/>
       <outline type="rss" title="Twilio Engineering Blog" text="Twilio Engineering Blog" htmlUrl="https://www.twilio.com/engineering" xmlUrl="https://www.twilio.com/engineering/feed/"/>
       <outline type="rss" title="Uploads by github" text="Uploads by github" htmlUrl="http://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ/videos" xmlUrl="http://gdata.youtube.com/feeds/base/users/github/uploads"/>
+      <outline type="rss" title="Uploads by Etsy Eng" text="Uploads by Etsy Eng" htmlUrl="http://www.youtube.com/channel/UCRLwxeoe37rPV7E9bHBLcHA/videos" xmlUrl="http://gdata.youtube.com/feeds/base/users/etsyengineering/uploads"/>
     </outline>
     <outline title="Developers" text="Developers">
       <outline type="rss" title="@tmm1" text="@tmm1" htmlUrl="http://tmm1.net/" xmlUrl="http://tmm1.net/atom.xml"/>
