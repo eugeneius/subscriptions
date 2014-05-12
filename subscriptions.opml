@@ -137,7 +137,6 @@
       <outline type="rss" title="5-Second Films" text="5-Second Films" htmlUrl="http://5secondfilms.com/" xmlUrl="http://5secondfilms.com/feed"/>
       <outline type="rss" title=":o" text=":o" htmlUrl="http://mspandrew.tumblr.com/" xmlUrl="http://mspandrew.tumblr.com/rss"/>
       <outline type="rss" title="ABOBOBO" text="ABOBOBO" htmlUrl="http://abobobo.tumblr.com/" xmlUrl="http://abobobo.tumblr.com/rss"/>
-      <outline type="rss" title="Adverts.ie - Recent Ads" text="Adverts.ie - Recent Ads" htmlUrl="http://www.adverts.ie/for-sale/q_aeron/" xmlUrl="http://www.adverts.ie/for-sale/q_aeron/rss/"/>
       <outline type="rss" title="Adverts.ie Blog" text="Adverts.ie Blog" htmlUrl="http://www.adverts.ie/blog" xmlUrl="http://www.adverts.ie/blog/feed/"/>
       <outline type="rss" title="Andrew's Blog" text="Andrew's Blog" htmlUrl="http://andrewhussie.blogspot.com/" xmlUrl="http://andrewhussie.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="B to the F: The Novelization of Back To The Future" text="B to the F: The Novelization of Back To The Future" htmlUrl="http://btothef.tumblr.com/" xmlUrl="http://btothef.tumblr.com/rss"/>
@@ -150,8 +149,6 @@
       <outline type="rss" title="Cillian's Favourites" text="Cillian's Favourites" htmlUrl="http://feeds.delicious.com/v2/rss/cillians/favourites" xmlUrl="http://feeds.delicious.com/v2/rss/cillians/favourites"/>
       <outline type="rss" title="Cillian's Shared Quotes" text="Cillian's Shared Quotes" htmlUrl="http://feeds.delicious.com/v2/rss/cillians/quotes" xmlUrl="http://feeds.delicious.com/v2/rss/cillians/quotes"/>
       <outline type="rss" title="Clay Shirky" text="Clay Shirky" htmlUrl="http://www.shirky.com/weblog" xmlUrl="http://www.shirky.com/weblog/feed/"/>
-      <outline type="rss" title="Daft.ie - Golden Lane Rental" text="Daft.ie - Golden Lane Rental" htmlUrl="http://www.daft.ie" xmlUrl="http://www.daft.ie/rss.daft?uid=792211&amp;id=191431&amp;xk=999908"/>
-      <outline type="rss" title="Daft.ie - Golden Lane For Sale" text="Daft.ie - Golden Lane For Sale" htmlUrl="http://www.daft.ie" xmlUrl="http://www.daft.ie/rss.daft?uid=792211&amp;id=103292&amp;xk=782732"/>
       <outline type="rss" title="Damn Interesting" text="Damn Interesting" htmlUrl="http://www.damninteresting.com" xmlUrl="http://www.damninteresting.com/feed"/>
       <outline type="rss" title="Derek Sivers" text="Derek Sivers" htmlUrl="http://sivers.org/" xmlUrl="http://sivers.org/en.atom"/>
       <outline type="rss" title="DevOps Reactions" text="DevOps Reactions" htmlUrl="http://devopsreactions.tumblr.com/" xmlUrl="http://devopsreactions.tumblr.com/rss"/>
@@ -360,6 +357,9 @@
       <outline type="rss" title="Zach Holman" text="Zach Holman" htmlUrl="http://zachholman.com/" xmlUrl="http://zachholman.com/atom.xml"/>
     </outline>
     <outline title="Feeds" text="Feeds">
+      <outline type="rss" title="Adverts.ie - Saved Search for aeron" text="Adverts.ie - Saved Search for aeron" htmlUrl="http://www.adverts.ie/for-sale/q_aeron/" xmlUrl="http://www.adverts.ie/for-sale/q_aeron/rss/"/>
+      <outline type="rss" title="Daft.ie - Golden Lane Rental" text="Daft.ie - Golden Lane Rental" htmlUrl="http://www.daft.ie/searchrental.daft?s[cc_id]=c1&amp;s[street_name]=golden+lane&amp;s[advanced]=1&amp;search=1" xmlUrl="http://www.daft.ie/rss.daft?uid=792211&amp;id=191431&amp;xk=999908"/>
+      <outline type="rss" title="Daft.ie - Golden Lane For Sale" text="Daft.ie - Golden Lane For Sale" htmlUrl="https://www.daft.ie/searchsale.daft?s[cc_id]=ct1&amp;s[address]=golden+lane&amp;s[pt_id]=2&amp;s[advanced]=1&amp;search=1" xmlUrl="http://www.daft.ie/rss.daft?uid=792211&amp;id=103292&amp;xk=782732"/>
       <outline type="rss" title="Grantland: Andy Greenwald" text="Grantland: Andy Greenwald" htmlUrl="http://grantland.com/contributors/andy-greenwald/" xmlUrl="http://grantland.com/contributors/andy-greenwald/feed/"/>
       <outline type="rss" title="The A.V. Club - For Our Consideration" text="The A.V. Club - For Our Consideration" htmlUrl="http://www.avclub.com/search?feature_types=for-our-consideration" xmlUrl="http://www.avclub.com/feed/rss?feature_types=for-our-consideration"/>
       <outline type="rss" title="The A.V. Club - Gateways To Geekery" text="The A.V. Club - Gateways To Geekery" htmlUrl="http://www.avclub.com/search?feature_types=gateways-to-geekery" xmlUrl="http://www.avclub.com/feed/rss?feature_types=gateways-to-geekery"/>
