@@ -285,6 +285,7 @@
       <outline type="rss" title="Sublime Blog" text="Sublime Blog" htmlUrl="http://www.sublimetext.com/blog" xmlUrl="http://www.sublimetext.com/blog/feed"/>
       <outline type="rss" title="SubToMe" text="SubToMe" htmlUrl="http://docs.subtome.com" xmlUrl="http://docs.subtome.com/feed.xml"/>
       <outline type="rss" title="Superfeedr Blog" text="Superfeedr Blog" htmlUrl="http://blog.superfeedr.com/" xmlUrl="http://blog.superfeedr.com/atom.xml"/>
+      <outline type="rss" title="tapadoo" text="tapadoo" htmlUrl="http://tapadoo.com" xmlUrl="http://tapadoo.com/feed/"/>
       <outline type="rss" title="Tapbots Blog" text="Tapbots Blog" htmlUrl="http://tapbots.com/blog" xmlUrl="http://tapbots.com/blog/feed"/>
       <outline type="rss" title="The Contrast Blog" text="The Contrast Blog" htmlUrl="http://contrast.ie/blog" xmlUrl="http://contrast.ie/blog/feed/atom/"/>
       <outline type="rss" title="The GitHub Blog" text="The GitHub Blog" htmlUrl="https://github.com/blog" xmlUrl="https://github.com/blog/all.atom"/>
