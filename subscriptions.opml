@@ -521,6 +521,7 @@
       <outline type="rss" title="One Div Zero" text="One Div Zero" htmlUrl="http://james-iry.blogspot.com/" xmlUrl="http://james-iry.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="paperplanes" text="paperplanes" htmlUrl="http://www.paperplanes.de" xmlUrl="http://www.paperplanes.de/atom.xml"/>
       <outline type="rss" title="Web Advent" text="Web Advent" htmlUrl="http://webadvent.org/" xmlUrl="http://feeds.feedburner.com/webadvent"/>
+      <outline type="rss" title="PagerDuty Status - Incident History" text="PagerDuty Status - Incident History" htmlUrl="http://status.pagerduty.com" xmlUrl="http://status.pagerduty.com/history.atom"/>
       <outline type="rss" title="Programming in the 21st Century" text="Programming in the 21st Century" htmlUrl="http://prog21.dadgum.com/" xmlUrl="http://prog21.dadgum.com/atom.xml"/>
       <outline type="rss" title="raganwald.com" text="raganwald.com" htmlUrl="http://raganwald.com/" xmlUrl="http://raganwald.com/atom.xml"/>
       <outline type="rss" title="rails3's videos" text="rails3's videos" htmlUrl="http://www.viddler.com/explore/rails3/videos/" xmlUrl="http://www.viddler.com/explore/rails3/videos/feed/"/>
