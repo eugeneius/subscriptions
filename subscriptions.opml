@@ -500,6 +500,7 @@
       <outline type="rss" title="Alex Payne" text="Alex Payne" htmlUrl="https://al3x.net/" xmlUrl="https://al3x.net/atom.xml"/>
       <outline type="rss" title="API Digest" text="API Digest" htmlUrl="http://apidigest.com/" xmlUrl="http://apidigest.com/posts/?format=rss"/>
       <outline type="rss" title="Articles from Inc.com by Jason Fried" text="Articles from Inc.com by Jason Fried" htmlUrl="http://www.inc.com/author/jason-fried" xmlUrl="http://www.inc.com/rss/author/jason-fried.xml"/>
+      <outline type="rss" title="Casey's Blog" text="Casey's Blog" htmlUrl="http://mollyrocket.com/casey/" xmlUrl="http://mollyrocket.com/casey/stream_atom.rss"/>
       <outline type="rss" title="Coding Horror" text="Coding Horror" htmlUrl="http://www.codinghorror.com/blog/" xmlUrl="http://www.codinghorror.com/blog/index.xml"/>
       <outline type="rss" title="Cowboy Programming" text="Cowboy Programming" htmlUrl="http://cowboyprogramming.com" xmlUrl="http://cowboyprogramming.com/feed/"/>
       <outline type="rss" title="DaedTech" text="DaedTech" htmlUrl="http://www.daedtech.com" xmlUrl="http://www.daedtech.com/feed"/>
