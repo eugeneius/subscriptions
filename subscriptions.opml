@@ -254,6 +254,7 @@
       <outline type="rss" title="Atom Blog" text="Atom Blog" htmlUrl="http://blog.atom.io" xmlUrl="http://blog.atom.io/feed.xml"/>
       <outline type="rss" title="Authy Blog" text="Authy Blog" htmlUrl="http://blog.authy.com" xmlUrl="http://blog.authy.com/rss"/>
       <outline type="rss" title="AWS News" text="AWS News" htmlUrl="http://aws.amazon.com/about-aws/whats-new" xmlUrl="http://aws.amazon.com/rss/whats-new.rss"/>
+      <outline type="rss" title="AWS Developer Blog - Ruby" text="AWS Developer Blog - Ruby" htmlUrl="http://ruby.awsblog.com" xmlUrl="http://ruby.awsblog.com/blog/feed/recentPosts.rss"/>
       <outline type="rss" title="Backing &amp; Hacking" text="Backing &amp; Hacking" htmlUrl="http://www.kickstarter.com/backing-and-hacking" xmlUrl="http://www.kickstarter.com/backing-and-hacking.atom"/>
       <outline type="rss" title="Building Feedly" text="Building Feedly" htmlUrl="http://blog.feedly.com" xmlUrl="http://blog.feedly.com/feed/"/>
       <outline type="rss" title="Code @ HootSuite" text="Code @ HootSuite" htmlUrl="http://code.hootsuite.com" xmlUrl="http://code.hootsuite.com/feed/"/>
