@@ -517,6 +517,7 @@
       <outline type="rss" title="Google Reader Blog" text="Google Reader Blog" htmlUrl="http://googlereader.blogspot.com/" xmlUrl="http://googlereader.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="Hut 8 Labs" text="Hut 8 Labs" htmlUrl="http://blog.hut8labs.com/" xmlUrl="http://blog.hut8labs.com/feeds/all.atom.xml"/>
       <outline type="rss" title="Jeff Lindsay" text="Jeff Lindsay" htmlUrl="http://progrium.com" xmlUrl="http://progrium.com/blog/atom.xml"/>
+      <outline type="rss" title="Jekyll" text="Jekyll" htmlUrl="http://jekyllrb.com/news/" xmlUrl="http://jekyllrb.com/feed.xml"/>
       <outline type="rss" title="Joel on Software" text="Joel on Software" htmlUrl="http://www.joelonsoftware.com" xmlUrl="http://www.joelonsoftware.com/rss.xml"/>
       <outline type="rss" title="Mailgun Status - Incident History" text="Mailgun Status - Incident History" htmlUrl="http://status.mailgun.com" xmlUrl="http://status.mailgun.com/history.atom"/>
       <outline type="rss" title="Martin Fjordvald" text="Martin Fjordvald" htmlUrl="http://blog.martinfjordvald.com" xmlUrl="http://blog.martinfjordvald.com/feed/"/>
