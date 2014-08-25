@@ -314,6 +314,8 @@
       <outline type="rss" title="Bob Long" text="Bob Long" htmlUrl="http://blog.bob.gg/" xmlUrl="http://blog.bob.gg/rss"/>
       <outline type="rss" title="Bracket Brotherhood" text="Bracket Brotherhood" htmlUrl="http://www.bracketbrotherhood.com" xmlUrl="http://www.bracketbrotherhood.com/feed/"/>
       <outline type="rss" title="Chris Dixon" text="Chris Dixon" htmlUrl="http://cdixon.org" xmlUrl="http://cdixon.org/feed/"/>
+      <outline type="rss" title="codablog" text="codablog" htmlUrl="http://blog.codahale.com" xmlUrl="http://blog.codahale.com/feed/"/>
+      <outline type="rss" title="codahale.com" text="codahale.com" htmlUrl="http://codahale.com/" xmlUrl="http://codahale.com/atom.xml"/>
       <outline type="rss" title="Conor McDermottroe" text="Conor McDermottroe" htmlUrl="http://www.mcdermottroe.com/blog" xmlUrl="http://www.mcdermottroe.com/blog/feed/"/>
       <outline type="rss" title="Conroyp.com" text="Conroyp.com" htmlUrl="http://www.conroyp.com" xmlUrl="http://www.conroyp.com/feed/"/>
       <outline type="rss" title="Corey Haines" text="Corey Haines" htmlUrl="http://articles.coreyhaines.com/" xmlUrl="http://articles.coreyhaines.com/atom.xml"/>
