@@ -268,6 +268,7 @@
       <outline type="rss" title="Engineering at Quora" text="Engineering at Quora" htmlUrl="http://engineering.quora.com" xmlUrl="http://engineering.quora.com/rss"/>
       <outline type="rss" title="Feedbin Blog" text="Feedbin Blog" htmlUrl="http://blog.feedbin.me" xmlUrl="http://blog.feedbin.me/atom.xml"/>
       <outline type="rss" title="Fog Creek Blog" text="Fog Creek Blog" htmlUrl="http://blog.fogcreek.com" xmlUrl="http://blog.fogcreek.com/feed/"/>
+      <outline type="rss" title="Gemnasium" text="Gemnasium" htmlUrl="http://blog.gemnasium.com" xmlUrl="http://blog.gemnasium.com/rss"/>
       <outline type="rss" title="GitHub Showcases" text="GitHub Showcases" htmlUrl="https://github.com/showcases" xmlUrl="https://github.com/showcases.atom"/>
       <outline type="rss" title="HipChat Blog" text="HipChat Blog" htmlUrl="http://blog.hipchat.com" xmlUrl="http://blog.hipchat.com/feed/"/>
       <outline type="rss" title="Instagram Engineering" text="Instagram Engineering" htmlUrl="http://instagram-engineering.tumblr.com/" xmlUrl="http://instagram-engineering.tumblr.com/rss"/>
