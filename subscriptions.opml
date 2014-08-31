@@ -482,7 +482,7 @@
       <outline type="rss" title="Kotaku: Guest Editorials" text="Kotaku: Guest Editorials" htmlUrl="http://kotaku.com" xmlUrl="http://kotaku.com/tag/guest-editorial/rss"/>
       <outline type="rss" title="Kotaku: Leigh Alexander" text="Kotaku: Leigh Alexander" htmlUrl="http://kotaku.com" xmlUrl="http://kotaku.com/tag/leighalexander/rss"/>
       <outline type="rss" title="Kotaku: Tim Rogers" text="Kotaku: Tim Rogers" htmlUrl="http://kotaku.com" xmlUrl="http://kotaku.com/tag/timrogers/rss"/>
-      <outline type="rss" title="RPS Sunday Papers" text="RPS Sunday Papers" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=489706a345f63df11493d29c8c5df6d5" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=489706a345f63df11493d29c8c5df6d5&amp;_render=rss"/>
+      <outline type="rss" title="RPS Sunday Papers" text="RPS Sunday Papers" htmlUrl="http://www.rockpapershotgun.com/tag/the-sunday-papers/" xmlUrl="http://www.rockpapershotgun.com/tag/the-sunday-papers/feed/"/>
       <outline type="rss" title="TIGSource" text="TIGSource" htmlUrl="http://www.tigsource.com" xmlUrl="http://www.tigsource.com/feed/"/>
       <outline type="rss" title="video game releases" text="video game releases" htmlUrl="http://vgamereleases.tumblr.com/" xmlUrl="http://vgamereleases.tumblr.com/rss"/>
     </outline>
