@@ -224,6 +224,7 @@
       <outline type="rss" title="Gun Show" text="Gun Show" htmlUrl="http://gunshowcomic.com" xmlUrl="http://www.rsspect.com/rss/gunshowcomic.xml"/>
       <outline type="rss" title="Happle Tea" text="Happle Tea" htmlUrl="http://www.happletea.com" xmlUrl="http://www.happletea.com/feed/"/>
       <outline type="rss" title="Hark, A Vagrant!" text="Hark, A Vagrant!" htmlUrl="http://www.harkavagrant.com" xmlUrl="http://www.rsspect.com/rss/vagrant.xml"/>
+      <outline type="rss" title="Jeffrey Rowland Internet Comics" text="Jeffrey Rowland Internet Comics" htmlUrl="http://www.jjrowland.com/" xmlUrl="http://www.jjrowland.com/rss/"/>
       <outline type="rss" title="Johnny Wander Combined Feed" text="Johnny Wander Combined Feed" htmlUrl="http://www.johnnywander.com/" xmlUrl="http://www.johnnywander.com/feed/combined"/>
       <outline type="rss" title="KUKUBURI" text="KUKUBURI" htmlUrl="http://www.kukuburi.com" xmlUrl="http://www.kukuburi.com/feed/"/>
       <outline type="rss" title="Lackadaisy Cats" text="Lackadaisy Cats" htmlUrl="http://www.lackadaisycats.com/comic" xmlUrl="http://www.lackadaisycats.com/rss/"/>
@@ -231,7 +232,6 @@
       <outline type="rss" title="Nedroid Picture Diary" text="Nedroid Picture Diary" htmlUrl="http://nedroid.com" xmlUrl="http://nedroid.com/feed/"/>
       <outline type="rss" title="Nnewts by Doug TenNapel" text="Nnewts by Doug TenNapel" htmlUrl="http://nnewts.com" xmlUrl="http://nnewts.com/feed/"/>
       <outline type="rss" title="Oglaf" text="Oglaf" htmlUrl="http://oglaf.com/latest/" xmlUrl="http://oglaf.com/feeds/rss/"/>
-      <outline type="rss" title="Overcompensating" text="Overcompensating" htmlUrl="http://www.overcompensating.com/" xmlUrl="http://www.overcompensating.com/rss/"/>
       <outline type="rss" title="Pandyland" text="Pandyland" htmlUrl="http://pandyland.net" xmlUrl="http://pandyland.net/feed/"/>
       <outline type="rss" title="Penny Arcade" text="Penny Arcade" htmlUrl="http://www.penny-arcade.com" xmlUrl="http://feeds.penny-arcade.com/pa-mainsite"/>
       <outline type="rss" title="Questionable Content" text="Questionable Content" htmlUrl="http://www.questionablecontent.net" xmlUrl="http://www.questionablecontent.net/QCRSS.xml"/>
@@ -245,7 +245,6 @@
       <outline type="rss" title="The Trenches" text="The Trenches" htmlUrl="http://trenchescomic.com" xmlUrl="http://trenchescomic.com/feed"/>
       <outline type="rss" title="Three Word Phrase" text="Three Word Phrase" htmlUrl="http://www.threewordphrase.com/" xmlUrl="http://www.threewordphrase.com/rss.xml"/>
       <outline type="rss" title="We are become pals!" text="We are become pals!" htmlUrl="http://wearebecomepals.tumblr.com/" xmlUrl="http://wearebecomepals.tumblr.com/rss"/>
-      <outline type="rss" title="WIGU ADVENTURES" text="WIGU ADVENTURES" htmlUrl="http://www.wigucomics.com/" xmlUrl="http://www.wigucomics.com/rss/"/>
       <outline type="rss" title="Wondermark" text="Wondermark" htmlUrl="http://wondermark.com" xmlUrl="http://wondermark.com/feed/"/>
       <outline type="rss" title="xkcd" text="xkcd" htmlUrl="http://xkcd.com/" xmlUrl="http://www.xkcd.com/rss.xml"/>
     </outline>
