@@ -533,6 +533,7 @@
       <outline type="rss" title="Joel on Software" text="Joel on Software" htmlUrl="http://www.joelonsoftware.com" xmlUrl="http://www.joelonsoftware.com/rss.xml"/>
       <outline type="rss" title="Mailgun Status - Incident History" text="Mailgun Status - Incident History" htmlUrl="http://status.mailgun.com" xmlUrl="http://status.mailgun.com/history.atom"/>
       <outline type="rss" title="Martin Fjordvald" text="Martin Fjordvald" htmlUrl="http://blog.martinfjordvald.com" xmlUrl="http://blog.martinfjordvald.com/feed/"/>
+      <outline type="rss" title="Node.js Blog" text="Node.js Blog" htmlUrl="http://blog.nodejs.org/" xmlUrl="http://blog.nodejs.org/feed/"/>
       <outline type="rss" title="Official jQuery Blog" text="Official jQuery Blog" htmlUrl="http://blog.jquery.com" xmlUrl="http://blog.jquery.com/feed/"/>
       <outline type="rss" title="One Div Zero" text="One Div Zero" htmlUrl="http://james-iry.blogspot.com/" xmlUrl="http://james-iry.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="paperplanes" text="paperplanes" htmlUrl="http://www.paperplanes.de" xmlUrl="http://www.paperplanes.de/atom.xml"/>
