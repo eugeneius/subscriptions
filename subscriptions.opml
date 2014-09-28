@@ -511,6 +511,7 @@
       <outline type="rss" title="Alex Payne" text="Alex Payne" htmlUrl="https://al3x.net/" xmlUrl="https://al3x.net/atom.xml"/>
       <outline type="rss" title="API Digest" text="API Digest" htmlUrl="http://apidigest.com/" xmlUrl="http://apidigest.com/posts/?format=rss"/>
       <outline type="rss" title="Articles from Inc.com by Jason Fried" text="Articles from Inc.com by Jason Fried" htmlUrl="http://www.inc.com/author/jason-fried" xmlUrl="http://www.inc.com/rss/author/jason-fried.xml"/>
+      <outline type="rss" title="Bundler Blog" text="Bundler Blog" htmlUrl="http://bundler.io/blog/" xmlUrl="http://bundler.io/blog/feed.xml"/>
       <outline type="rss" title="Casey's Blog" text="Casey's Blog" htmlUrl="http://mollyrocket.com/casey/" xmlUrl="http://mollyrocket.com/casey/stream_atom.rss"/>
       <outline type="rss" title="Coding Horror" text="Coding Horror" htmlUrl="http://www.codinghorror.com/blog/" xmlUrl="http://www.codinghorror.com/blog/index.xml"/>
       <outline type="rss" title="Compose Status - Incident History" text="Compose Status - Incident History" htmlUrl="https://status.compose.io" xmlUrl="https://status.compose.io/history.atom"/>
