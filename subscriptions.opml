@@ -548,6 +548,7 @@
       <outline type="rss" title="Ruby News" text="Ruby News" htmlUrl="https://www.ruby-lang.org/en/feeds/news.rss" xmlUrl="https://www.ruby-lang.org/en/feeds/news.rss"/>
       <outline type="rss" title="Sifter Status - Incident History" text="Sifter Status - Incident History" htmlUrl="http://status.sifterapp.com" xmlUrl="http://status.sifterapp.com/history.atom"/>
       <outline type="rss" title="speaking.io" text="speaking.io" htmlUrl="http://speaking.io/" xmlUrl="http://speaking.io/atom.xml"/>
+      <outline type="rss" title="The Go Programming Language Blog" text="The Go Programming Language Blog" htmlUrl="http://blog.golang.org/" xmlUrl="http://blog.golang.org/feed.atom"/>
       <outline type="rss" title="Think Outside In" text="Think Outside In" htmlUrl="http://www.thinkoutsidein.com/blog" xmlUrl="http://www.thinkoutsidein.com/blog/feed/"/>
       <outline type="rss" title="Wynn Netherland" text="Wynn Netherland" htmlUrl="http://wynnnetherland.com/" xmlUrl="http://feeds.feedburner.com/wynn"/>
     </outline>
