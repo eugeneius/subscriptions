@@ -550,6 +550,7 @@
       <outline type="rss" title="speaking.io" text="speaking.io" htmlUrl="http://speaking.io/" xmlUrl="http://speaking.io/atom.xml"/>
       <outline type="rss" title="The Go Programming Language Blog" text="The Go Programming Language Blog" htmlUrl="http://blog.golang.org/" xmlUrl="http://blog.golang.org/feed.atom"/>
       <outline type="rss" title="The Manual" text="The Manual" htmlUrl="https://themanual.org/" xmlUrl="https://themanual.org/feed"/>
+      <outline type="rss" title="The Manual: Blog" text="The Manual: Blog" htmlUrl="http://blog.themanual.org" xmlUrl="http://blog.themanual.org/posts.xml"/>
       <outline type="rss" title="The Rust Programming Language Blog" text="The Rust Programming Language Blog" htmlUrl="http://blog.rust-lang.org/" xmlUrl="http://blog.rust-lang.org/feed.xml"/>
       <outline type="rss" title="Think Outside In" text="Think Outside In" htmlUrl="http://www.thinkoutsidein.com/blog" xmlUrl="http://www.thinkoutsidein.com/blog/feed/"/>
       <outline type="rss" title="Wynn Netherland" text="Wynn Netherland" htmlUrl="http://wynnnetherland.com/" xmlUrl="http://feeds.feedburner.com/wynn"/>
