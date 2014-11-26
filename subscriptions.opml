@@ -271,6 +271,7 @@
       <outline type="rss" title="GitHub Showcases" text="GitHub Showcases" htmlUrl="https://github.com/showcases" xmlUrl="https://github.com/showcases.atom"/>
       <outline type="rss" title="HipChat Blog" text="HipChat Blog" htmlUrl="http://blog.hipchat.com" xmlUrl="http://blog.hipchat.com/feed/"/>
       <outline type="rss" title="Inside Intercom" text="Inside Intercom" htmlUrl="http://blog.intercom.io" xmlUrl="http://blog.intercom.io/feed/"/>
+      <outline type="rss" title="Inside Skylight" text="Inside Skylight" htmlUrl="http://blog.skylight.io" xmlUrl="http://blog.skylight.io/rss/"/>
       <outline type="rss" title="Instagram Engineering" text="Instagram Engineering" htmlUrl="http://instagram-engineering.tumblr.com/" xmlUrl="http://instagram-engineering.tumblr.com/rss"/>
       <outline type="rss" title="Intercom Changes" text="Intercom Changes" htmlUrl="https://app.intercom.io/changes" xmlUrl="https://app.intercom.io/changes.atom"/>
       <outline type="rss" title="Meldium" text="Meldium" htmlUrl="http://blog.meldium.com/" xmlUrl="http://blog.meldium.com/home?format=rss"/>
