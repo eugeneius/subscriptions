@@ -270,6 +270,7 @@
       <outline type="rss" title="Gemnasium" text="Gemnasium" htmlUrl="http://blog.gemnasium.com" xmlUrl="http://blog.gemnasium.com/rss"/>
       <outline type="rss" title="GitHub Showcases" text="GitHub Showcases" htmlUrl="https://github.com/showcases" xmlUrl="https://github.com/showcases.atom"/>
       <outline type="rss" title="HipChat Blog" text="HipChat Blog" htmlUrl="http://blog.hipchat.com" xmlUrl="http://blog.hipchat.com/feed/"/>
+      <outline type="rss" title="Inside Intercom" text="Inside Intercom" htmlUrl="http://blog.intercom.io" xmlUrl="http://blog.intercom.io/feed/"/>
       <outline type="rss" title="Instagram Engineering" text="Instagram Engineering" htmlUrl="http://instagram-engineering.tumblr.com/" xmlUrl="http://instagram-engineering.tumblr.com/rss"/>
       <outline type="rss" title="Intercom Changes" text="Intercom Changes" htmlUrl="https://app.intercom.io/changes" xmlUrl="https://app.intercom.io/changes.atom"/>
       <outline type="rss" title="Meldium" text="Meldium" htmlUrl="http://blog.meldium.com/" xmlUrl="http://blog.meldium.com/home?format=rss"/>
@@ -290,7 +291,6 @@
       <outline type="rss" title="Tapbots Blog" text="Tapbots Blog" htmlUrl="http://tapbots.com/blog" xmlUrl="http://tapbots.com/blog/feed"/>
       <outline type="rss" title="The Contrast Blog" text="The Contrast Blog" htmlUrl="http://contrast.ie/blog" xmlUrl="http://contrast.ie/blog/feed/atom/"/>
       <outline type="rss" title="The GitHub Blog" text="The GitHub Blog" htmlUrl="https://github.com/blog" xmlUrl="https://github.com/blog/all.atom"/>
-      <outline type="rss" title="The Intercom Blog" text="The Intercom Blog" htmlUrl="http://insideintercom.io" xmlUrl="http://insideintercom.io/feed/atom/"/>
       <outline type="rss" title="The Mailgun Blog" text="The Mailgun Blog" htmlUrl="http://blog.mailgun.com" xmlUrl="http://blog.mailgun.com/feed/"/>
       <outline type="rss" title="The Old Reader" text="The Old Reader" htmlUrl="http://blog.theoldreader.com/" xmlUrl="http://blog.theoldreader.com/rss"/>
       <outline type="rss" title="The Tito Blog" text="The Tito Blog" htmlUrl="http://blog.tito.io" xmlUrl="http://blog.tito.io/feed.xml"/>
