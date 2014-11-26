@@ -524,6 +524,7 @@
       <outline type="rss" title="Git Book Blog" text="Git Book Blog" htmlUrl="http://git-scm.com" xmlUrl="http://git-scm.com/blog.rss"/>
       <outline type="rss" title="Git Release Notes" text="Git Release Notes" htmlUrl="http://git-scm.com" xmlUrl="http://leonard.io/git-releases.rss.xml"/>
       <outline type="rss" title="GitHub API Changes" text="GitHub API Changes" htmlUrl="http://developer.github.com/changes" xmlUrl="http://developer.github.com/changes.atom"/>
+      <outline type="rss" title="GitHub Service Status" text="GitHub Service Status" htmlUrl="https://status.github.com" xmlUrl="https://status.github.com/messages.rss"/>
       <outline type="rss" title="Gmail Blog" text="Gmail Blog" htmlUrl="http://gmailblog.blogspot.com/" xmlUrl="http://gmailblog.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="Google Reader Blog" text="Google Reader Blog" htmlUrl="http://googlereader.blogspot.com/" xmlUrl="http://googlereader.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="HipChat Status - Incident History" text="HipChat Status - Incident History" htmlUrl="http://status.hipchat.com" xmlUrl="http://status.hipchat.com/history.atom"/>
