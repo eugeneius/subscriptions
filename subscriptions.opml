@@ -526,6 +526,7 @@
       <outline type="rss" title="GitHub API Changes" text="GitHub API Changes" htmlUrl="http://developer.github.com/changes" xmlUrl="http://developer.github.com/changes.atom"/>
       <outline type="rss" title="Gmail Blog" text="Gmail Blog" htmlUrl="http://gmailblog.blogspot.com/" xmlUrl="http://gmailblog.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="Google Reader Blog" text="Google Reader Blog" htmlUrl="http://googlereader.blogspot.com/" xmlUrl="http://googlereader.blogspot.com/feeds/posts/default"/>
+      <outline type="rss" title="HipChat Status - Incident History" text="HipChat Status - Incident History" htmlUrl="http://status.hipchat.com" xmlUrl="http://status.hipchat.com/history.atom"/>
       <outline type="rss" title="Hut 8 Labs" text="Hut 8 Labs" htmlUrl="http://blog.hut8labs.com/" xmlUrl="http://blog.hut8labs.com/feeds/all.atom.xml"/>
       <outline type="rss" title="Jeff Lindsay" text="Jeff Lindsay" htmlUrl="http://progrium.com" xmlUrl="http://progrium.com/blog/atom.xml"/>
       <outline type="rss" title="Jekyll" text="Jekyll" htmlUrl="http://jekyllrb.com/news/" xmlUrl="http://jekyllrb.com/feed.xml"/>
@@ -547,6 +548,7 @@
       <outline type="rss" title="Ruby News" text="Ruby News" htmlUrl="https://www.ruby-lang.org/en/feeds/news.rss" xmlUrl="https://www.ruby-lang.org/en/feeds/news.rss"/>
       <outline type="rss" title="Sifter Status - Incident History" text="Sifter Status - Incident History" htmlUrl="http://status.sifterapp.com" xmlUrl="http://status.sifterapp.com/history.atom"/>
       <outline type="rss" title="speaking.io" text="speaking.io" htmlUrl="http://speaking.io/" xmlUrl="http://speaking.io/atom.xml"/>
+      <outline type="rss" title="StatusPage.io Status - Incident History" text="StatusPage.io Status - Incident History" htmlUrl="http://metastatuspage.com" xmlUrl="http://metastatuspage.com/history.atom"/>
       <outline type="rss" title="The Go Programming Language Blog" text="The Go Programming Language Blog" htmlUrl="http://blog.golang.org/" xmlUrl="http://blog.golang.org/feed.atom"/>
       <outline type="rss" title="The Manual" text="The Manual" htmlUrl="https://themanual.org/" xmlUrl="https://themanual.org/feed"/>
       <outline type="rss" title="The Manual: Blog" text="The Manual: Blog" htmlUrl="http://blog.themanual.org" xmlUrl="http://blog.themanual.org/posts.xml"/>
