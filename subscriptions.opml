@@ -508,6 +508,7 @@
       <outline type="rss" title="Bootstrap Blog" text="Bootstrap Blog" htmlUrl="http://blog.getbootstrap.com/" xmlUrl="http://blog.getbootstrap.com/feed.xml"/>
       <outline type="rss" title="Bundler Blog" text="Bundler Blog" htmlUrl="http://bundler.io/blog/" xmlUrl="http://bundler.io/blog/feed.xml"/>
       <outline type="rss" title="Ember Blog" text="Ember Blog" htmlUrl="http://emberjs.com/blog" xmlUrl="http://emberjs.com/blog/feed.xml"/>
+      <outline type="rss" title="Feedjira Blog" text="Feedjira Blog" htmlUrl="http://feedjira.com/blog" xmlUrl="http://feedjira.com/blog/feed.xml"/>
       <outline type="rss" title="Git Release Notes" text="Git Release Notes" htmlUrl="http://git-scm.com" xmlUrl="http://leonard.io/git-releases.rss.xml"/>
       <outline type="rss" title="Jekyll" text="Jekyll" htmlUrl="http://jekyllrb.com/news/" xmlUrl="http://jekyllrb.com/feed.xml"/>
       <outline type="rss" title="Node.js Blog" text="Node.js Blog" htmlUrl="http://blog.nodejs.org/" xmlUrl="http://blog.nodejs.org/feed/"/>
