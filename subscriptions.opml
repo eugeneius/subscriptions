@@ -547,6 +547,7 @@
       <outline type="rss" title="24 Ways To Start" text="24 Ways To Start" htmlUrl="http://24waystostart.com" xmlUrl="http://24waystostart.com/feed/"/>
       <outline type="rss" title="8th Light Blog" text="8th Light Blog" htmlUrl="http://blog.8thlight.com/" xmlUrl="http://blog.8thlight.com/feed/atom.xml"/>
       <outline type="rss" title="Alex Payne" text="Alex Payne" htmlUrl="https://al3x.net/" xmlUrl="https://al3x.net/atom.xml"/>
+      <outline type="rss" title="All Things Distributed" text="All Things Distributed" htmlUrl="http://www.allthingsdistributed.com/" xmlUrl="http://www.allthingsdistributed.com/atom.xml"/>
       <outline type="rss" title="API Digest" text="API Digest" htmlUrl="http://apidigest.com/" xmlUrl="http://apidigest.com/posts/?format=rss"/>
       <outline type="rss" title="Articles from Inc.com by Jason Fried" text="Articles from Inc.com by Jason Fried" htmlUrl="http://www.inc.com/author/jason-fried" xmlUrl="http://www.inc.com/rss/author/jason-fried.xml"/>
       <outline type="rss" title="AWS Security Bulletins" text="AWS Security Bulletins" htmlUrl="http://aws.amazon.com/security/" xmlUrl="http://aws.amazon.com/rss/security.rss"/>
