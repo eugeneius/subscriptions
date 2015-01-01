@@ -346,7 +346,7 @@
       <outline type="rss" title="Literate Programming" text="Literate Programming" htmlUrl="http://blog.steveklabnik.com" xmlUrl="http://blog.steveklabnik.com/atom.xml"/>
       <outline type="rss" title="Loud Thinking by David Heinemeier Hansson" text="Loud Thinking by David Heinemeier Hansson" htmlUrl="http://david.heinemeierhansson.com" xmlUrl="http://feeds.feedburner.com/LoudThinking"/>
       <outline type="rss" title="Matt Gemmell" text="Matt Gemmell" htmlUrl="http://mattgemmell.com/" xmlUrl="http://mattgemmell.com/feed"/>
-      <outline type="rss" title="Mike Perham" text="Mike Perham" htmlUrl="http://www.mikeperham.com" xmlUrl="http://www.mikeperham.com/feed/"/>
+      <outline type="rss" title="Mike Perham" text="Mike Perham" htmlUrl="http://www.mikeperham.com" xmlUrl="http://www.mikeperham.com/feed.xml"/>
       <outline type="rss" title="Mitchell Hashimoto" text="Mitchell Hashimoto" htmlUrl="http://mitchellh.com" xmlUrl="http://mitchellh.com/feed"/>
       <outline type="rss" title="myronmars.to/n" text="myronmars.to/n" htmlUrl="http://myronmars.to/n" xmlUrl="http://myronmars.to/n/atom.xml"/>
       <outline type="rss" title="obfuscurity." text="obfuscurity." htmlUrl="http://obfuscurity.com/" xmlUrl="http://obfuscurity.com/rss2.xml"/>
