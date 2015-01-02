@@ -199,6 +199,7 @@
       <outline type="rss" title="Universal Dead" text="Universal Dead" htmlUrl="http://www.youtube.com/channel/UCqvvhM0F85g_ujzCMpqTnAg/videos" xmlUrl="http://gdata.youtube.com/feeds/base/users/SpatterTelevision/uploads"/>
       <outline type="rss" title="Valve" text="Valve" htmlUrl="http://blogs.valvesoftware.com" xmlUrl="http://blogs.valvesoftware.com/feed/"/>
       <outline type="rss" title="Vimeo / New Picture Agencies' uploaded videos" text="Vimeo / New Picture Agencies' uploaded videos" htmlUrl="http://vimeo.com/user4387261/videos" xmlUrl="http://vimeo.com/user4387261/videos/rss"/>
+      <outline type="rss" title="Waxy.org" text="Waxy.org" htmlUrl="http://waxy.org/" xmlUrl="http://waxy.org/index.xml"/>
       <outline type="rss" title="What If?" text="What If?" htmlUrl="http://what-if.xkcd.com" xmlUrl="http://what-if.xkcd.com/feed.atom"/>
       <outline type="rss" title="When in git" text="When in git" htmlUrl="http://wheningit.tumblr.com/" xmlUrl="http://wheningit.tumblr.com/rss"/>
     </outline>
