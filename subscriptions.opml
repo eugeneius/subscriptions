@@ -314,6 +314,7 @@
       <outline type="rss" title="Bill de hOra" text="Bill de hOra" htmlUrl="http://dehora.net/journal/atom.xml" xmlUrl="http://dehora.net/journal/atom.xml"/>
       <outline type="rss" title="Bob Long" text="Bob Long" htmlUrl="http://blog.bob.gg/" xmlUrl="http://blog.bob.gg/rss"/>
       <outline type="rss" title="Bracket Brotherhood" text="Bracket Brotherhood" htmlUrl="http://www.bracketbrotherhood.com" xmlUrl="http://www.bracketbrotherhood.com/feed/"/>
+      <outline type="rss" title="Chad Fowler" text="Chad Fowler" htmlUrl="http://chadfowler.com/" xmlUrl="http://chadfowler.com/atom.xml"/>
       <outline type="rss" title="Chris Dixon" text="Chris Dixon" htmlUrl="http://cdixon.org" xmlUrl="http://cdixon.org/feed/"/>
       <outline type="rss" title="codablog" text="codablog" htmlUrl="http://blog.codahale.com" xmlUrl="http://blog.codahale.com/feed/"/>
       <outline type="rss" title="codahale.com" text="codahale.com" htmlUrl="http://codahale.com/" xmlUrl="http://codahale.com/atom.xml"/>
