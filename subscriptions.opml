@@ -351,6 +351,7 @@
       <outline type="rss" title="Leonard Ehrenfried" text="Leonard Ehrenfried" htmlUrl="http://leonard.io/blog/" xmlUrl="http://leonard.io/blog/feed.xml"/>
       <outline type="rss" title="Literate Programming" text="Literate Programming" htmlUrl="http://blog.steveklabnik.com" xmlUrl="http://blog.steveklabnik.com/atom.xml"/>
       <outline type="rss" title="Loud Thinking by David Heinemeier Hansson" text="Loud Thinking by David Heinemeier Hansson" htmlUrl="http://david.heinemeierhansson.com" xmlUrl="http://feeds.feedburner.com/LoudThinking"/>
+      <outline type="rss" title="Mark Otto" text="Mark Otto" htmlUrl="http://markdotto.com/" xmlUrl="http://markdotto.com/atom.xml"/>
       <outline type="rss" title="Matt Gemmell" text="Matt Gemmell" htmlUrl="http://mattgemmell.com/" xmlUrl="http://mattgemmell.com/feed"/>
       <outline type="rss" title="Mike Perham" text="Mike Perham" htmlUrl="http://www.mikeperham.com" xmlUrl="http://www.mikeperham.com/feed.xml"/>
       <outline type="rss" title="Mitchell Hashimoto" text="Mitchell Hashimoto" htmlUrl="http://mitchellh.com" xmlUrl="http://mitchellh.com/feed"/>
