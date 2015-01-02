@@ -512,6 +512,7 @@
       <outline type="rss" title="Feedjira Blog" text="Feedjira Blog" htmlUrl="http://feedjira.com/blog" xmlUrl="http://feedjira.com/blog/feed.xml"/>
       <outline type="rss" title="Git Release Notes" text="Git Release Notes" htmlUrl="http://git-scm.com" xmlUrl="http://leonard.io/git-releases.rss.xml"/>
       <outline type="rss" title="Jekyll" text="Jekyll" htmlUrl="http://jekyllrb.com/news/" xmlUrl="http://jekyllrb.com/feed.xml"/>
+      <outline type="rss" title="Nim Programming Language" text="Nim Programming Language" htmlUrl="http://nim-lang.org/news.html" xmlUrl="http://nim-lang.org/news.xml"/>
       <outline type="rss" title="Node.js Blog" text="Node.js Blog" htmlUrl="http://blog.nodejs.org/" xmlUrl="http://blog.nodejs.org/feed/"/>
       <outline type="rss" title="Official jQuery Blog" text="Official jQuery Blog" htmlUrl="http://blog.jquery.com" xmlUrl="http://blog.jquery.com/feed/"/>
       <outline type="rss" title="Riding Rails" text="Riding Rails" htmlUrl="http://weblog.rubyonrails.org/" xmlUrl="http://weblog.rubyonrails.org/feed/atom.xml"/>
