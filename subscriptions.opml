@@ -311,6 +311,7 @@
       <outline type="rss" title="Aphyr: Posts" text="Aphyr: Posts" htmlUrl="http://aphyr.com/" xmlUrl="http://aphyr.com/posts.atom"/>
       <outline type="rss" title="beerops" text="beerops" htmlUrl="http://beero.ps" xmlUrl="http://beero.ps/feed/"/>
       <outline type="rss" title="Ben Bleikamp" text="Ben Bleikamp" htmlUrl="http://bleikamp.com" xmlUrl="http://bleikamp.com/feed.xml"/>
+      <outline type="rss" title="Ben Orenstein" text="Ben Orenstein" htmlUrl="http://www.benorenstein.com/blog/" xmlUrl="http://www.benorenstein.com/blog/feed.xml"/>
       <outline type="rss" title="Bill de hOra" text="Bill de hOra" htmlUrl="http://dehora.net/journal/atom.xml" xmlUrl="http://dehora.net/journal/atom.xml"/>
       <outline type="rss" title="Bob Long" text="Bob Long" htmlUrl="http://blog.bob.gg/" xmlUrl="http://blog.bob.gg/rss"/>
       <outline type="rss" title="Bracket Brotherhood" text="Bracket Brotherhood" htmlUrl="http://www.bracketbrotherhood.com" xmlUrl="http://www.bracketbrotherhood.com/feed/"/>
