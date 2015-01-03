@@ -387,6 +387,7 @@
       <outline type="rss" title="Re-factor" text="Re-factor" htmlUrl="http://re-factor.com/" xmlUrl="http://re-factor.com/atom.xml"/>
       <outline type="rss" title="Richard Schneeman" text="Richard Schneeman" htmlUrl="http://www.schneems.com/" xmlUrl="http://www.schneems.com/feed.xml"/>
       <outline type="rss" title="Ross Duggan" text="Ross Duggan" htmlUrl="http://rossduggan.ie" xmlUrl="http://www.rossduggan.ie/feed/"/>
+      <outline type="rss" title="Ross Kaffenberger" text="Ross Kaffenberger" htmlUrl="http://rosskaff.com/" xmlUrl="http://rosskaff.com/feed.xml"/>
       <outline type="rss" title="Ryan Tomayko" text="Ryan Tomayko" htmlUrl="http://tomayko.com/" xmlUrl="http://tomayko.com/feed/"/>
       <outline type="rss" title="Sam Lambert" text="Sam Lambert" htmlUrl="http://samlambert.com/" xmlUrl="http://samlambert.com/atom.xml"/>
       <outline type="rss" title="Shay Frendt" text="Shay Frendt" htmlUrl="http://shayfrendt.com/" xmlUrl="http://shayfrendt.com/atom.xml"/>
