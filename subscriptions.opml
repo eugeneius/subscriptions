@@ -362,6 +362,7 @@
       <outline type="rss" title="Mark Otto" text="Mark Otto" htmlUrl="http://markdotto.com/" xmlUrl="http://markdotto.com/atom.xml"/>
       <outline type="rss" title="Matt Gemmell" text="Matt Gemmell" htmlUrl="http://mattgemmell.com/" xmlUrl="http://mattgemmell.com/feed"/>
       <outline type="rss" title="Mike Perham" text="Mike Perham" htmlUrl="http://www.mikeperham.com" xmlUrl="http://www.mikeperham.com/feed.xml"/>
+      <outline type="rss" title="Mislav Marohnić" text="Mislav Marohnić" htmlUrl="http://mislav.uniqpath.com/blog/" xmlUrl="http://mislav.uniqpath.com/feeds/dev.xml"/>
       <outline type="rss" title="Mitchell Hashimoto" text="Mitchell Hashimoto" htmlUrl="http://mitchellh.com" xmlUrl="http://mitchellh.com/feed"/>
       <outline type="rss" title="myronmars.to/n" text="myronmars.to/n" htmlUrl="http://myronmars.to/n" xmlUrl="http://myronmars.to/n/atom.xml"/>
       <outline type="rss" title="obfuscurity." text="obfuscurity." htmlUrl="http://obfuscurity.com/" xmlUrl="http://obfuscurity.com/rss2.xml"/>
