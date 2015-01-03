@@ -393,6 +393,7 @@
       <outline type="rss" title="Ryan Tomayko" text="Ryan Tomayko" htmlUrl="http://tomayko.com/" xmlUrl="http://tomayko.com/feed/"/>
       <outline type="rss" title="Sam Lambert" text="Sam Lambert" htmlUrl="http://samlambert.com/" xmlUrl="http://samlambert.com/atom.xml"/>
       <outline type="rss" title="Sam Saffron" text="Sam Saffron" htmlUrl="http://samsaffron.com" xmlUrl="http://samsaffron.com/posts.rss"/>
+      <outline type="rss" title="Sam Soffes" text="Sam Soffes" htmlUrl="http://blog.soff.es/" xmlUrl="http://blog.soff.es/rss/"/>
       <outline type="rss" title="Shay Frendt" text="Shay Frendt" htmlUrl="http://shayfrendt.com/" xmlUrl="http://shayfrendt.com/atom.xml"/>
       <outline type="rss" title="stephaniefrancis.ie" text="stephaniefrancis.ie" htmlUrl="http://www.stephaniefrancis.ie" xmlUrl="http://www.stephaniefrancis.ie/feed/"/>
       <outline type="rss" title="Steve Klabnik" text="Steve Klabnik" htmlUrl="http://words.steveklabnik.com" xmlUrl="http://words.steveklabnik.com/feed/"/>
