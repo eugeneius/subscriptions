@@ -308,6 +308,7 @@
       <outline type="rss" title="a Hint of Creative" text="a Hint of Creative" htmlUrl="http://joelb.me/blog/" xmlUrl="http://joelb.me/blog/feed/"/>
       <outline type="rss" title="Adam Ochonicki" text="Adam Ochonicki" htmlUrl="http://fromonesrc.com/" xmlUrl="http://fromonesrc.com/atom.xml"/>
       <outline type="rss" title="Alex MacCaw" text="Alex MacCaw" htmlUrl="http://blog.alexmaccaw.com" xmlUrl="http://blog.alexmaccaw.com/feed"/>
+      <outline type="rss" title="Amber Feng" text="Amber Feng" htmlUrl="http://amberonrails.com/" xmlUrl="http://amberonrails.com/feed/"/>
       <outline type="rss" title="Antirez weblog" text="Antirez weblog" htmlUrl="http://antirez.com" xmlUrl="http://antirez.com/rss"/>
       <outline type="rss" title="Aphyr: Posts" text="Aphyr: Posts" htmlUrl="http://aphyr.com/" xmlUrl="http://aphyr.com/posts.atom"/>
       <outline type="rss" title="beerops" text="beerops" htmlUrl="http://beero.ps" xmlUrl="http://beero.ps/feed/"/>
