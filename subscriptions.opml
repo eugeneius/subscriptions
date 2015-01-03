@@ -319,6 +319,7 @@
       <outline type="rss" title="Bob Long" text="Bob Long" htmlUrl="http://blog.bob.gg/" xmlUrl="http://blog.bob.gg/rss"/>
       <outline type="rss" title="Bracket Brotherhood" text="Bracket Brotherhood" htmlUrl="http://www.bracketbrotherhood.com" xmlUrl="http://www.bracketbrotherhood.com/feed/"/>
       <outline type="rss" title="Brian Ford" text="Brian Ford" htmlUrl="http://brixen.io/" xmlUrl="http://brixen.io/feed/atom.xml"/>
+      <outline type="rss" title="Brian Gordon" text="Brian Gordon" htmlUrl="http://briangordon.github.io/" xmlUrl="http://briangordon.github.io/atom.xml"/>
       <outline type="rss" title="Caleb Thompson" text="Caleb Thompson" htmlUrl="http://calebthompson.io" xmlUrl="http://calebthompson.io/atom.xml"/>
       <outline type="rss" title="Cap Watkins" text="Cap Watkins" htmlUrl="http://blog.capwatkins.com" xmlUrl="http://blog.capwatkins.com/feed"/>
       <outline type="rss" title="Chad Fowler" text="Chad Fowler" htmlUrl="http://chadfowler.com/" xmlUrl="http://chadfowler.com/atom.xml"/>
