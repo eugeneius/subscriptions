@@ -251,7 +251,6 @@
     </outline>
     <outline title="Companies" text="Companies">
       <outline type="rss" title="Airbnb Engineering" text="Airbnb Engineering" htmlUrl="http://nerds.airbnb.com" xmlUrl="http://nerds.airbnb.com/feed/"/>
-      <outline type="rss" title="Atom Blog" text="Atom Blog" htmlUrl="http://blog.atom.io" xmlUrl="http://blog.atom.io/feed.xml"/>
       <outline type="rss" title="Authy Blog" text="Authy Blog" htmlUrl="http://blog.authy.com" xmlUrl="http://blog.authy.com/rss"/>
       <outline type="rss" title="AWS News" text="AWS News" htmlUrl="http://aws.amazon.com/about-aws/whats-new" xmlUrl="http://aws.amazon.com/rss/whats-new.rss"/>
       <outline type="rss" title="AWS Developer Blog - Ruby" text="AWS Developer Blog - Ruby" htmlUrl="http://ruby.awsblog.com" xmlUrl="http://ruby.awsblog.com/blog/feed/recentPosts.rss"/>
@@ -538,6 +537,7 @@
       <outline type="rss" title="Presentations by Zach Holman // Speaker Deck" text="Presentations by Zach Holman // Speaker Deck" htmlUrl="https://speakerdeck.com/holman" xmlUrl="https://speakerdeck.com/holman.atom"/>
     </outline>
     <outline title="Software" text="Software">
+      <outline type="rss" title="Atom Blog" text="Atom Blog" htmlUrl="http://blog.atom.io" xmlUrl="http://blog.atom.io/feed.xml"/>
       <outline type="rss" title="Bootstrap Blog" text="Bootstrap Blog" htmlUrl="http://blog.getbootstrap.com/" xmlUrl="http://blog.getbootstrap.com/feed.xml"/>
       <outline type="rss" title="Bundler Blog" text="Bundler Blog" htmlUrl="http://bundler.io/blog/" xmlUrl="http://bundler.io/blog/feed.xml"/>
       <outline type="rss" title="Elixir Lang" text="Elixir Lang" htmlUrl="http://elixir-lang.org" xmlUrl="http://elixir-lang.org/atom.xml"/>
