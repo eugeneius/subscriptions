@@ -490,6 +490,7 @@
       <outline type="rss" title="action button" text="action button" htmlUrl="http://www.actionbutton.net" xmlUrl="http://www.actionbutton.net/?feed=rss2"/>
       <outline type="rss" title="Click Nothing" text="Click Nothing" htmlUrl="http://www.clicknothing.com/click_nothing/" xmlUrl="http://www.clicknothing.com/click_nothing/atom.xml"/>
       <outline type="rss" title="Critical Damage" text="Critical Damage" htmlUrl="http://critdamage.blogspot.com/" xmlUrl="http://critdamage.blogspot.com/feeds/posts/default"/>
+      <outline type="rss" title="Eric Mill: Game Reviews" text="Eric Mill: Game Reviews" htmlUrl="https://konklone.com/games" xmlUrl="https://konklone.com/games/feed"/>
       <outline type="rss" title="Fullbright" text="Fullbright" htmlUrl="http://www.fullbrightdesign.com/" xmlUrl="http://www.fullbrightdesign.com/feeds/posts/default"/>
       <outline type="rss" title="Game Design Advance" text="Game Design Advance" htmlUrl="http://gamedesignadvance.com" xmlUrl="http://gamedesignadvance.com/?feed=rss2"/>
       <outline type="rss" title="Grantland: Tevis Thompson" text="Grantland: Tevis Thompson" htmlUrl="http://grantland.com/contributors/tevis-thompson/" xmlUrl="http://grantland.com/contributors/tevis-thompson/feed/"/>
@@ -594,6 +595,7 @@
       <outline type="rss" title="DaedTech" text="DaedTech" htmlUrl="http://www.daedtech.com" xmlUrl="http://www.daedtech.com/feed"/>
       <outline type="rss" title="Daemonic Dispatches" text="Daemonic Dispatches" htmlUrl="http://www.daemonology.net/blog/" xmlUrl="http://www.daemonology.net/blog/index.rss"/>
       <outline type="rss" title="DanNorth.net" text="DanNorth.net" htmlUrl="http://dannorth.net" xmlUrl="http://dannorth.net/feed/"/>
+      <outline type="rss" title="Eric Mill" text="Eric Mill" htmlUrl="https://konklone.com" xmlUrl="https://konklone.com/rss.xml"/>
       <outline type="rss" title="GarrettDimon.com" text="GarrettDimon.com" htmlUrl="http://garrettdimon.com/" xmlUrl="http://garrettdimon.com/rss"/>
       <outline type="rss" title="Giant Robots Smashing Into Other Giant Robots" text="Giant Robots Smashing Into Other Giant Robots" htmlUrl="http://robots.thoughtbot.com" xmlUrl="http://robots.thoughtbot.com/feed.xml"/>
       <outline type="rss" title="Git Book Blog" text="Git Book Blog" htmlUrl="http://git-scm.com" xmlUrl="http://git-scm.com/blog.rss"/>
