@@ -558,6 +558,7 @@
     <outline title="Status Pages" text="Status Pages">
       <outline type="rss" title="@getsentry Status - Incident History" text="@getsentry Status - Incident History" htmlUrl="http://status.getsentry.com" xmlUrl="http://status.getsentry.com/history.atom"/>
       <outline type="rss" title="CircleCI Status - Incident History" text="CircleCI Status - Incident History" htmlUrl="http://status.circleci.com" xmlUrl="http://status.circleci.com/history.atom"/>
+      <outline type="rss" title="Code Climate Status - Incident History" text="Code Climate Status - Incident History" htmlUrl="https://status.codeclimate.com" xmlUrl="https://status.codeclimate.com/history.atom"/>
       <outline type="rss" title="Compose Status - Incident History" text="Compose Status - Incident History" htmlUrl="https://status.compose.io" xmlUrl="https://status.compose.io/history.atom"/>
       <outline type="rss" title="DNSimple Status - Incident History" text="DNSimple Status - Incident History" htmlUrl="http://dnsimplestatus.com" xmlUrl="http://dnsimplestatus.com/history.atom"/>
       <outline type="rss" title="Fastly Status - Incident History" text="Fastly Status - Incident History" htmlUrl="http://status.fastly.com" xmlUrl="http://status.fastly.com/history.atom"/>
