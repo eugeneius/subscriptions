@@ -269,7 +269,6 @@
       <outline type="rss" title="Fog Creek Blog" text="Fog Creek Blog" htmlUrl="http://blog.fogcreek.com" xmlUrl="http://blog.fogcreek.com/feed/"/>
       <outline type="rss" title="Gemnasium" text="Gemnasium" htmlUrl="http://blog.gemnasium.com" xmlUrl="http://blog.gemnasium.com/rss"/>
       <outline type="rss" title="GitHub Showcases" text="GitHub Showcases" htmlUrl="https://github.com/showcases" xmlUrl="https://github.com/showcases.atom"/>
-      <outline type="rss" title="HipChat Blog" text="HipChat Blog" htmlUrl="http://blog.hipchat.com" xmlUrl="http://blog.hipchat.com/feed/"/>
       <outline type="rss" title="Inside Intercom" text="Inside Intercom" htmlUrl="http://blog.intercom.io" xmlUrl="http://blog.intercom.io/feed/"/>
       <outline type="rss" title="Inside Skylight" text="Inside Skylight" htmlUrl="http://blog.skylight.io" xmlUrl="http://blog.skylight.io/rss/"/>
       <outline type="rss" title="Instagram Engineering" text="Instagram Engineering" htmlUrl="http://instagram-engineering.tumblr.com/" xmlUrl="http://instagram-engineering.tumblr.com/rss"/>
@@ -566,7 +565,6 @@
       <outline type="rss" title="Fastly Status - Incident History" text="Fastly Status - Incident History" htmlUrl="http://status.fastly.com" xmlUrl="http://status.fastly.com/history.atom"/>
       <outline type="rss" title="GitHub Service Status" text="GitHub Service Status" htmlUrl="https://status.github.com" xmlUrl="https://status.github.com/messages.rss"/>
       <outline type="rss" title="Heroku Status" text="Heroku Status" htmlUrl="https://status.heroku.com" xmlUrl="https://status.heroku.com/feed"/>
-      <outline type="rss" title="HipChat Status - Incident History" text="HipChat Status - Incident History" htmlUrl="http://status.hipchat.com" xmlUrl="http://status.hipchat.com/history.atom"/>
       <outline type="rss" title="Hosted Graphite Status - Incident History" text="Hosted Graphite Status - Incident History" htmlUrl="http://status.hostedgraphite.com" xmlUrl="http://status.hostedgraphite.com/history.atom"/>
       <outline type="rss" title="Intercom Status - Incident History" text="Intercom Status - Incident History" htmlUrl="http://status.intercom.io" xmlUrl="http://status.intercom.io/history.atom"/>
       <outline type="rss" title="Mailgun Status - Incident History" text="Mailgun Status - Incident History" htmlUrl="http://status.mailgun.com" xmlUrl="http://status.mailgun.com/history.atom"/>
