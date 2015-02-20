@@ -549,6 +549,7 @@
       <outline type="rss" title="Node.js Blog" text="Node.js Blog" htmlUrl="http://blog.nodejs.org/" xmlUrl="http://blog.nodejs.org/feed/"/>
       <outline type="rss" title="Official jQuery Blog" text="Official jQuery Blog" htmlUrl="http://blog.jquery.com" xmlUrl="http://blog.jquery.com/feed/"/>
       <outline type="rss" title="Riding Rails" text="Riding Rails" htmlUrl="http://weblog.rubyonrails.org/" xmlUrl="http://weblog.rubyonrails.org/feed/atom.xml"/>
+      <outline type="rss" title="RSpec Blog" text="RSpec Blog" htmlUrl="http://rspec.info/blog/" xmlUrl="http://rspec.info/blog/feed.xml"/>
       <outline type="rss" title="Ruby News" text="Ruby News" htmlUrl="https://www.ruby-lang.org/en/news/" xmlUrl="https://www.ruby-lang.org/en/feeds/news.rss"/>
       <outline type="rss" title="Rubinius Blog" text="Rubinius Blog" htmlUrl="http://rubini.us/blog" xmlUrl="http://rubini.us/feed/atom.xml"/>
       <outline type="rss" title="The Go Programming Language Blog" text="The Go Programming Language Blog" htmlUrl="http://blog.golang.org/" xmlUrl="http://blog.golang.org/feed.atom"/>
