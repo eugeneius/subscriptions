@@ -255,6 +255,7 @@
       <outline type="rss" title="AWS Developer Blog - Ruby" text="AWS Developer Blog - Ruby" htmlUrl="http://ruby.awsblog.com" xmlUrl="http://ruby.awsblog.com/blog/feed/recentPosts.rss"/>
       <outline type="rss" title="Backing &amp; Hacking" text="Backing &amp; Hacking" htmlUrl="http://www.kickstarter.com/backing-and-hacking" xmlUrl="http://www.kickstarter.com/backing-and-hacking.atom"/>
       <outline type="rss" title="Building Feedly" text="Building Feedly" htmlUrl="http://blog.feedly.com" xmlUrl="http://blog.feedly.com/feed/"/>
+      <outline type="rss" title="CircleCI Changelog" text="CircleCI Changelog" htmlUrl="https://circleci.com/changelog" xmlUrl="https://circleci.com/changelog.rss"/>
       <outline type="rss" title="Code @ HootSuite" text="Code @ HootSuite" htmlUrl="http://code.hootsuite.com" xmlUrl="http://code.hootsuite.com/feed/"/>
       <outline type="rss" title="Code as Craft" text="Code as Craft" htmlUrl="http://codeascraft.com" xmlUrl="http://codeascraft.com/feed/"/>
       <outline type="rss" title="Code Climate Blog" text="Code Climate Blog" htmlUrl="http://blog.codeclimate.com/" xmlUrl="http://blog.codeclimate.com/atom.xml"/>
@@ -288,6 +289,7 @@
       <outline type="rss" title="Superfeedr Blog" text="Superfeedr Blog" htmlUrl="http://blog.superfeedr.com/" xmlUrl="http://blog.superfeedr.com/atom.xml"/>
       <outline type="rss" title="tapadoo" text="tapadoo" htmlUrl="http://tapadoo.com" xmlUrl="http://tapadoo.com/feed/"/>
       <outline type="rss" title="Tapbots Blog" text="Tapbots Blog" htmlUrl="http://tapbots.com/blog" xmlUrl="http://tapbots.com/blog/feed"/>
+      <outline type="rss" title="The Circle Blog" text="The Circle Blog" htmlUrl="http://blog.circleci.com" xmlUrl="http://blog.circleci.com/feed/"/>
       <outline type="rss" title="The Codeship Blog" text="The Codeship Blog" htmlUrl="http://blog.codeship.com" xmlUrl="http://blog.codeship.com/feed/"/>
       <outline type="rss" title="The Contrast Blog" text="The Contrast Blog" htmlUrl="http://contrast.ie/blog" xmlUrl="http://contrast.ie/blog/feed/atom/"/>
       <outline type="rss" title="The GitHub Blog" text="The GitHub Blog" htmlUrl="https://github.com/blog" xmlUrl="https://github.com/blog/all.atom"/>
