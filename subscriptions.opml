@@ -260,6 +260,7 @@
       <outline type="rss" title="Code as Craft" text="Code as Craft" htmlUrl="http://codeascraft.com" xmlUrl="http://codeascraft.com/feed/"/>
       <outline type="rss" title="Code Climate Blog" text="Code Climate Blog" htmlUrl="http://blog.codeclimate.com/" xmlUrl="http://blog.codeclimate.com/atom.xml"/>
       <outline type="rss" title="code.flickr.net" text="code.flickr.net" htmlUrl="http://code.flickr.net/" xmlUrl="http://code.flickr.net/feed/"/>
+      <outline type="rss" title="Confluent" text="Confluent" htmlUrl="http://blog.confluent.io" xmlUrl="http://blog.confluent.io/feed/"/>
       <outline type="rss" title="Digg Blog" text="Digg Blog" htmlUrl="http://blog.digg.com/" xmlUrl="http://blog.digg.com/rss"/>
       <outline type="rss" title="Discourse" text="Discourse" htmlUrl="http://blog.discourse.org" xmlUrl="http://blog.discourse.org/feed/"/>
       <outline type="rss" title="Dropbox tech blog" text="Dropbox tech blog" htmlUrl="https://tech.dropbox.com" xmlUrl="https://tech.dropbox.com/feed/"/>
