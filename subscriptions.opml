@@ -620,6 +620,7 @@
       <outline type="rss" title="The Effective Engineer" text="The Effective Engineer" htmlUrl="http://www.theeffectiveengineer.com/" xmlUrl="http://www.theeffectiveengineer.com/atom.xml"/>
       <outline type="rss" title="The Manual" text="The Manual" htmlUrl="https://themanual.org/" xmlUrl="https://themanual.org/feed"/>
       <outline type="rss" title="The Manual: Blog" text="The Manual: Blog" htmlUrl="http://blog.themanual.org" xmlUrl="http://blog.themanual.org/posts.xml"/>
+      <outline type="rss" title="The Sakurity Blog" text="The Sakurity Blog" htmlUrl="http://sakurity.com/blog" xmlUrl="http://sakurity.com/blog/feed.xml"/>
       <outline type="rss" title="Think Outside In" text="Think Outside In" htmlUrl="http://www.thinkoutsidein.com/blog" xmlUrl="http://www.thinkoutsidein.com/blog/feed/"/>
       <outline type="rss" title="Web Advent" text="Web Advent" htmlUrl="http://webadvent.org/" xmlUrl="http://feeds.feedburner.com/webadvent"/>
       <outline type="rss" title="Wynn Netherland" text="Wynn Netherland" htmlUrl="http://wynnnetherland.com/" xmlUrl="http://feeds.feedburner.com/wynn"/>
