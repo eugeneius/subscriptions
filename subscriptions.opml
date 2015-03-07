@@ -281,6 +281,7 @@
       <outline type="rss" title="Pinboard" text="Pinboard" htmlUrl="https://blog.pinboard.in/" xmlUrl="https://blog.pinboard.in/feed/"/>
       <outline type="rss" title="Postmark Blog" text="Postmark Blog" htmlUrl="http://blog.postmarkapp.com/" xmlUrl="http://blog.postmarkapp.com/rss"/>
       <outline type="rss" title="Scout ~ The Blog" text="Scout ~ The Blog" htmlUrl="http://blog.scoutapp.com/" xmlUrl="http://feeds.feedburner.com/scoutapp"/>
+      <outline type="rss" title="Sentry Blog" text="Sentry Blog" htmlUrl="http://blog.getsentry.com" xmlUrl="http://blog.getsentry.com/feed.xml"/>
       <outline type="rss" title="Shake Blog" text="Shake Blog" htmlUrl="http://blog.shake.io" xmlUrl="http://blog.shake.io/feed/"/>
       <outline type="rss" title="Sifter Changelog" text="Sifter Changelog" htmlUrl="https://sifterapp.com/changelog/" xmlUrl="https://sifterapp.com/feeds/changelog.xml"/>
       <outline type="rss" title="Sifter Blog" text="Sifter Blog" htmlUrl="https://sifterapp.com/blog/" xmlUrl="https://sifterapp.com/feeds/blog.xml"/>
