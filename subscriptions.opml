@@ -599,6 +599,7 @@
       <outline type="rss" title="Eric Mill" text="Eric Mill" htmlUrl="https://konklone.com" xmlUrl="https://konklone.com/rss.xml"/>
       <outline type="rss" title="GarrettDimon.com" text="GarrettDimon.com" htmlUrl="http://garrettdimon.com/" xmlUrl="http://garrettdimon.com/rss"/>
       <outline type="rss" title="Giant Robots Smashing Into Other Giant Robots" text="Giant Robots Smashing Into Other Giant Robots" htmlUrl="http://robots.thoughtbot.com" xmlUrl="http://robots.thoughtbot.com/feed.xml"/>
+      <outline type="rss" title="Git Blame" text="Git Blame" htmlUrl="http://git-blame.blogspot.com/" xmlUrl="http://git-blame.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="Git Book Blog" text="Git Book Blog" htmlUrl="http://git-scm.com" xmlUrl="http://git-scm.com/blog.rss"/>
       <outline type="rss" title="GitHub API Changes" text="GitHub API Changes" htmlUrl="http://developer.github.com/changes" xmlUrl="http://developer.github.com/changes.atom"/>
       <outline type="rss" title="Gmail Blog" text="Gmail Blog" htmlUrl="http://gmailblog.blogspot.com/" xmlUrl="http://gmailblog.blogspot.com/feeds/posts/default"/>
