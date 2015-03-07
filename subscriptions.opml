@@ -583,6 +583,7 @@
       <outline type="rss" title="Codeship Status - Incident History" text="Codeship Status - Incident History" htmlUrl="http://codeshipstatus.com" xmlUrl="http://codeshipstatus.com/history.atom"/>
       <outline type="rss" title="Compose Status - Incident History" text="Compose Status - Incident History" htmlUrl="https://status.compose.io" xmlUrl="https://status.compose.io/history.atom"/>
       <outline type="rss" title="DNSimple Status - Incident History" text="DNSimple Status - Incident History" htmlUrl="http://dnsimplestatus.com" xmlUrl="http://dnsimplestatus.com/history.atom"/>
+      <outline type="rss" title="Etsy Status" text="Etsy Status" htmlUrl="http://etsystatus.com" xmlUrl="http://etsystatus.com/feed/atom/"/>
       <outline type="rss" title="Fastly Status - Incident History" text="Fastly Status - Incident History" htmlUrl="http://status.fastly.com" xmlUrl="http://status.fastly.com/history.atom"/>
       <outline type="rss" title="GitHub Service Status" text="GitHub Service Status" htmlUrl="https://status.github.com" xmlUrl="https://status.github.com/messages.rss"/>
       <outline type="rss" title="Heroku Status" text="Heroku Status" htmlUrl="https://status.heroku.com" xmlUrl="https://status.heroku.com/feed"/>
