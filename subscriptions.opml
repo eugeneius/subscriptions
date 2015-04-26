@@ -637,6 +637,7 @@
       <outline type="rss" title="rails3's videos" text="rails3's videos" htmlUrl="http://www.viddler.com/explore/rails3/videos/" xmlUrl="http://www.viddler.com/explore/rails3/videos/feed/"/>
       <outline type="rss" title="Railscasts" text="Railscasts" htmlUrl="http://railscasts.com" xmlUrl="http://railscasts.com/episodes.rss"/>
       <outline type="rss" title="Ruby Ireland" text="Ruby Ireland" htmlUrl="http://www.rubyireland.com" xmlUrl="http://www.rubyireland.com/feed/"/>
+      <outline type="rss" title="Ruby Together News" text="Ruby Together News" htmlUrl="https://rubytogether.org/news" xmlUrl="https://rubytogether.org/news.xml"/>
       <outline type="rss" title="speaking.io" text="speaking.io" htmlUrl="http://speaking.io/" xmlUrl="http://speaking.io/atom.xml"/>
       <outline type="rss" title="The Effective Engineer" text="The Effective Engineer" htmlUrl="http://www.theeffectiveengineer.com/" xmlUrl="http://www.theeffectiveengineer.com/atom.xml"/>
       <outline type="rss" title="The Manual" text="The Manual" htmlUrl="https://themanual.org/" xmlUrl="https://themanual.org/feed"/>
