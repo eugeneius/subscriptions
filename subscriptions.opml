@@ -574,6 +574,7 @@
       <outline type="rss" title="RSpec Blog" text="RSpec Blog" htmlUrl="http://rspec.info/blog/" xmlUrl="http://rspec.info/blog/feed.xml"/>
       <outline type="rss" title="Ruby News" text="Ruby News" htmlUrl="https://www.ruby-lang.org/en/news/" xmlUrl="https://www.ruby-lang.org/en/feeds/news.rss"/>
       <outline type="rss" title="Rubinius Blog" text="Rubinius Blog" htmlUrl="http://rubini.us/blog" xmlUrl="http://rubini.us/feed/atom.xml"/>
+      <outline type="rss" title="RubyGems Blog" text="RubyGems Blog" htmlUrl="http://blog.rubygems.org/" xmlUrl="http://blog.rubygems.org/atom.xml"/>
       <outline type="rss" title="The Go Programming Language Blog" text="The Go Programming Language Blog" htmlUrl="http://blog.golang.org/" xmlUrl="http://blog.golang.org/feed.atom"/>
       <outline type="rss" title="The Julia Blog" text="The Julia Blog" htmlUrl="http://julialang.org/blog/" xmlUrl="http://julialang.org/blog/feed.xml"/>
       <outline type="rss" title="The Rust Programming Language Blog" text="The Rust Programming Language Blog" htmlUrl="http://blog.rust-lang.org/" xmlUrl="http://blog.rust-lang.org/feed.xml"/>
