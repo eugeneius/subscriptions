@@ -579,6 +579,7 @@
       <outline type="rss" title="The Go Programming Language Blog" text="The Go Programming Language Blog" htmlUrl="http://blog.golang.org/" xmlUrl="http://blog.golang.org/feed.atom"/>
       <outline type="rss" title="The Julia Blog" text="The Julia Blog" htmlUrl="http://julialang.org/blog/" xmlUrl="http://julialang.org/blog/feed.xml"/>
       <outline type="rss" title="The Rust Programming Language Blog" text="The Rust Programming Language Blog" htmlUrl="http://blog.rust-lang.org/" xmlUrl="http://blog.rust-lang.org/feed.xml"/>
+      <outline type="rss" title="Travis CI Build Environment Updates" text="Travis CI Build Environment Updates" htmlUrl="http://docs.travis-ci.com/user/build-environment-updates/" xmlUrl="http://docs.travis-ci.com/feed.build-env-updates.xml"/>
     </outline>
     <outline title="Status Pages" text="Status Pages">
       <outline type="rss" title="@getsentry Status - Incident History" text="@getsentry Status - Incident History" htmlUrl="http://status.getsentry.com" xmlUrl="http://status.getsentry.com/history.atom"/>
