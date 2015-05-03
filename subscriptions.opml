@@ -300,6 +300,7 @@
       <outline type="rss" title="The Mailgun Blog" text="The Mailgun Blog" htmlUrl="http://blog.mailgun.com" xmlUrl="http://blog.mailgun.com/feed/"/>
       <outline type="rss" title="The Old Reader" text="The Old Reader" htmlUrl="http://blog.theoldreader.com/" xmlUrl="http://blog.theoldreader.com/rss"/>
       <outline type="rss" title="The Tito Blog" text="The Tito Blog" htmlUrl="http://blog.tito.io" xmlUrl="http://blog.tito.io/feed.xml"/>
+      <outline type="rss" title="The Travis CI Blog" text="The Travis CI Blog" htmlUrl="http://blog.travis-ci.com/" xmlUrl="http://blog.travis-ci.com/blog.xml"/>
       <outline type="rss" title="Tumblr Developers" text="Tumblr Developers" htmlUrl="http://developers.tumblr.com/" xmlUrl="http://developers.tumblr.com/rss"/>
       <outline type="rss" title="Tumblr Engineering" text="Tumblr Engineering" htmlUrl="http://engineering.tumblr.com/" xmlUrl="http://engineering.tumblr.com/rss"/>
       <outline type="rss" title="Twilio Engineering Blog" text="Twilio Engineering Blog" htmlUrl="https://www.twilio.com/engineering" xmlUrl="https://www.twilio.com/engineering/feed/"/>
