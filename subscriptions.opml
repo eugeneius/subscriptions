@@ -565,15 +565,18 @@
       <outline type="rss" title="Bundler Blog" text="Bundler Blog" htmlUrl="http://bundler.io/blog/" xmlUrl="http://bundler.io/blog/feed.xml"/>
       <outline type="rss" title="Elixir Lang" text="Elixir Lang" htmlUrl="http://elixir-lang.org" xmlUrl="http://elixir-lang.org/atom.xml"/>
       <outline type="rss" title="Ember Blog" text="Ember Blog" htmlUrl="http://emberjs.com/blog" xmlUrl="http://emberjs.com/blog/feed.xml"/>
+      <outline type="rss" title="Ember Security" text="Ember Security" htmlUrl="https://groups.google.com/d/forum/ember-security" xmlUrl="https://groups.google.com/forum/feed/ember-security/topics/atom.xml"/>
       <outline type="rss" title="Feedjira Blog" text="Feedjira Blog" htmlUrl="http://feedjira.com/blog" xmlUrl="http://feedjira.com/blog/feed.xml"/>
       <outline type="rss" title="Git Release Notes" text="Git Release Notes" htmlUrl="http://git-scm.com" xmlUrl="http://leonard.io/git-releases.rss.xml"/>
       <outline type="rss" title="Jekyll" text="Jekyll" htmlUrl="http://jekyllrb.com/news/" xmlUrl="http://jekyllrb.com/feed.xml"/>
       <outline type="rss" title="Nim Programming Language" text="Nim Programming Language" htmlUrl="http://nim-lang.org/news.html" xmlUrl="http://nim-lang.org/news.xml"/>
       <outline type="rss" title="Node.js Blog" text="Node.js Blog" htmlUrl="http://blog.nodejs.org/" xmlUrl="http://blog.nodejs.org/feed/"/>
       <outline type="rss" title="Official jQuery Blog" text="Official jQuery Blog" htmlUrl="http://blog.jquery.com" xmlUrl="http://blog.jquery.com/feed/"/>
+      <outline type="rss" title="Rails Security" text="Rails Security" htmlUrl="https://groups.google.com/d/forum/rubyonrails-security" xmlUrl="https://groups.google.com/forum/feed/rubyonrails-security/topics/atom.xml"/>
       <outline type="rss" title="Riding Rails" text="Riding Rails" htmlUrl="http://weblog.rubyonrails.org/" xmlUrl="http://weblog.rubyonrails.org/feed/atom.xml"/>
       <outline type="rss" title="RSpec Blog" text="RSpec Blog" htmlUrl="http://rspec.info/blog/" xmlUrl="http://rspec.info/blog/feed.xml"/>
       <outline type="rss" title="Ruby News" text="Ruby News" htmlUrl="https://www.ruby-lang.org/en/news/" xmlUrl="https://www.ruby-lang.org/en/feeds/news.rss"/>
+      <outline type="rss" title="Ruby Security" text="Ruby Security" htmlUrl="https://groups.google.com/d/forum/ruby-security-ann" xmlUrl="https://groups.google.com/forum/feed/ruby-security-ann/topics/atom.xml"/>
       <outline type="rss" title="Rubinius Blog" text="Rubinius Blog" htmlUrl="http://rubini.us/blog" xmlUrl="http://rubini.us/feed/atom.xml"/>
       <outline type="rss" title="RubyGems Blog" text="RubyGems Blog" htmlUrl="http://blog.rubygems.org/" xmlUrl="http://blog.rubygems.org/atom.xml"/>
       <outline type="rss" title="The Go Programming Language Blog" text="The Go Programming Language Blog" htmlUrl="http://blog.golang.org/" xmlUrl="http://blog.golang.org/feed.atom"/>
