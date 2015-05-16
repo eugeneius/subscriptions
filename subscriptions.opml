@@ -201,6 +201,7 @@
       <outline type="rss" title="Waxy.org" text="Waxy.org" htmlUrl="http://waxy.org/" xmlUrl="http://waxy.org/index.xml"/>
       <outline type="rss" title="What If?" text="What If?" htmlUrl="http://what-if.xkcd.com" xmlUrl="http://what-if.xkcd.com/feed.atom"/>
       <outline type="rss" title="When in git" text="When in git" htmlUrl="http://wheningit.tumblr.com/" xmlUrl="http://wheningit.tumblr.com/rss"/>
+      <outline type="rss" title="xkcd blog" text="xkcd blog" htmlUrl="http://blog.xkcd.com" xmlUrl="http://blog.xkcd.com/feed/"/>
     </outline>
     <outline title="Comics" text="Comics">
       <outline type="rss" title="A Lesson Is Learned But The Damage Is Irreversible" text="A Lesson Is Learned But The Damage Is Irreversible" htmlUrl="http://www.alessonislearned.com/" xmlUrl="http://www.kafsemo.org/rss/filters/live/http___www_alessonislearned_com_archive_php.rss"/>
