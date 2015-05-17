@@ -346,7 +346,6 @@
       <outline type="rss" title="Davey Shafik" text="Davey Shafik" htmlUrl="http://daveyshafik.com" xmlUrl="http://daveyshafik.com/feed"/>
       <outline type="rss" title="Evan Miller" text="Evan Miller" htmlUrl="http://www.evanmiller.org/" xmlUrl="http://www.evanmiller.org/news.xml"/>
       <outline type="rss" title="Feltpresence.com" text="Feltpresence.com" htmlUrl="http://feltpresence.com" xmlUrl="http://feltpresence.com/rss.xml"/>
-      <outline type="rss" title="Full Fucking Service" text="Full Fucking Service" htmlUrl="http://fullfuckingservice.tumblr.com/" xmlUrl="http://fullfuckingservice.tumblr.com/rss"/>
       <outline type="rss" title="Funkatron" text="Funkatron" htmlUrl="http://funkatron.com/" xmlUrl="http://funkatron.com/posts.xml"/>
       <outline type="rss" title="Gary Bernhardt" text="Gary Bernhardt" htmlUrl="https://www.destroyallsoftware.com/blog" xmlUrl="https://www.destroyallsoftware.com/blog/index.xml"/>
       <outline type="rss" title="Greg Brockman" text="Greg Brockman" htmlUrl="http://blog.gregbrockman.com" xmlUrl="http://blog.gregbrockman.com/feed"/>
@@ -625,6 +624,7 @@
       <outline type="rss" title="Daemonic Dispatches" text="Daemonic Dispatches" htmlUrl="http://www.daemonology.net/blog/" xmlUrl="http://www.daemonology.net/blog/index.rss"/>
       <outline type="rss" title="DanNorth.net" text="DanNorth.net" htmlUrl="http://dannorth.net" xmlUrl="http://dannorth.net/feed/"/>
       <outline type="rss" title="Eric Mill" text="Eric Mill" htmlUrl="https://konklone.com" xmlUrl="https://konklone.com/rss.xml"/>
+      <outline type="rss" title="Full Fucking Service" text="Full Fucking Service" htmlUrl="http://fullfuckingservice.tumblr.com/" xmlUrl="http://fullfuckingservice.tumblr.com/rss"/>
       <outline type="rss" title="GarrettDimon.com" text="GarrettDimon.com" htmlUrl="http://garrettdimon.com/" xmlUrl="http://garrettdimon.com/rss"/>
       <outline type="rss" title="Giant Robots Smashing Into Other Giant Robots" text="Giant Robots Smashing Into Other Giant Robots" htmlUrl="http://robots.thoughtbot.com" xmlUrl="http://robots.thoughtbot.com/feed.xml"/>
       <outline type="rss" title="Git Blame" text="Git Blame" htmlUrl="http://git-blame.blogspot.com/" xmlUrl="http://git-blame.blogspot.com/feeds/posts/default"/>
