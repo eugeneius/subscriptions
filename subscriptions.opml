@@ -346,6 +346,7 @@
       <outline type="rss" title="David Heinemeier Hansson" text="David Heinemeier Hansson" htmlUrl="http://david.heinemeierhansson.com" xmlUrl="http://feeds.feedburner.com/LoudThinking"/>
       <outline type="rss" title="Declan McGrath" text="Declan McGrath" htmlUrl="http://www.theirishpenguin.com/" xmlUrl="http://www.theirishpenguin.com/atom.xml"/>
       <outline type="rss" title="Ed Finkler" text="Ed Finkler" htmlUrl="http://funkatron.com/" xmlUrl="http://funkatron.com/posts.xml"/>
+      <outline type="rss" title="Eoghan McCabe" text="Eoghan McCabe" htmlUrl="http://eoghanmccabe.tumblr.com/" xmlUrl="http://eoghanmccabe.tumblr.com/rss"/>
       <outline type="rss" title="Evan Miller" text="Evan Miller" htmlUrl="http://www.evanmiller.org/" xmlUrl="http://www.evanmiller.org/news.xml"/>
       <outline type="rss" title="Gary Bernhardt" text="Gary Bernhardt" htmlUrl="https://www.destroyallsoftware.com/blog" xmlUrl="https://www.destroyallsoftware.com/blog/index.xml"/>
       <outline type="rss" title="Greg Brockman" text="Greg Brockman" htmlUrl="http://blog.gregbrockman.com" xmlUrl="http://blog.gregbrockman.com/feed"/>
