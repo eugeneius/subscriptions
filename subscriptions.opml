@@ -397,7 +397,6 @@
       <outline type="rss" title="Paul Graham: Essays" text="Paul Graham: Essays" htmlUrl="http://www.paulgraham.com/" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss"/>
       <outline type="rss" title="Paul Irish" text="Paul Irish" htmlUrl="http://www.paulirish.com/" xmlUrl="http://www.paulirish.com/atom.xml"/>
       <outline type="rss" title="Peter Barrett" text="Peter Barrett" htmlUrl="http://www.peterbarrett.ie/" xmlUrl="http://www.peterbarrett.ie/rss/"/>
-      <outline type="rss" title="Rands In Repose" text="Rands In Repose" htmlUrl="http://randsinrepose.com" xmlUrl="http://randsinrepose.com/feed/"/>
       <outline type="rss" title="Re-factor" text="Re-factor" htmlUrl="http://re-factor.com/" xmlUrl="http://re-factor.com/atom.xml"/>
       <outline type="rss" title="Richard Schneeman" text="Richard Schneeman" htmlUrl="http://www.schneems.com/" xmlUrl="http://www.schneems.com/feed.xml"/>
       <outline type="rss" title="Ross Duggan" text="Ross Duggan" htmlUrl="http://rossduggan.ie" xmlUrl="http://www.rossduggan.ie/feed/"/>
@@ -645,6 +644,7 @@
       <outline type="rss" title="raganwald.com" text="raganwald.com" htmlUrl="http://raganwald.com/" xmlUrl="http://raganwald.com/atom.xml"/>
       <outline type="rss" title="rails3's videos" text="rails3's videos" htmlUrl="http://www.viddler.com/explore/rails3/videos/" xmlUrl="http://www.viddler.com/explore/rails3/videos/feed/"/>
       <outline type="rss" title="Railscasts" text="Railscasts" htmlUrl="http://railscasts.com" xmlUrl="http://railscasts.com/episodes.rss"/>
+      <outline type="rss" title="Rands In Repose" text="Rands In Repose" htmlUrl="http://randsinrepose.com" xmlUrl="http://randsinrepose.com/feed/"/>
       <outline type="rss" title="Ruby Ireland" text="Ruby Ireland" htmlUrl="http://www.rubyireland.com" xmlUrl="http://www.rubyireland.com/feed/"/>
       <outline type="rss" title="Ruby Together News" text="Ruby Together News" htmlUrl="https://rubytogether.org/news" xmlUrl="https://rubytogether.org/news.xml"/>
       <outline type="rss" title="speaking.io" text="speaking.io" htmlUrl="http://speaking.io/" xmlUrl="http://speaking.io/atom.xml"/>
