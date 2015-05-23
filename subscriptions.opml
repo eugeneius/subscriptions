@@ -278,7 +278,6 @@
       <outline type="rss" title="Instagram Engineering" text="Instagram Engineering" htmlUrl="http://instagram-engineering.tumblr.com/" xmlUrl="http://instagram-engineering.tumblr.com/rss"/>
       <outline type="rss" title="Intercom Changes" text="Intercom Changes" htmlUrl="https://app.intercom.io/changes" xmlUrl="https://app.intercom.io/changes.atom"/>
       <outline type="rss" title="Meldium" text="Meldium" htmlUrl="http://blog.meldium.com/" xmlUrl="http://blog.meldium.com/home?format=rss"/>
-      <outline type="rss" title="MongoHQ Blog" text="MongoHQ Blog" htmlUrl="http://blog.mongohq.com" xmlUrl="http://blog.mongohq.com/feed/"/>
       <outline type="rss" title="NFSN Blog" text="NFSN Blog" htmlUrl="http://blog.nearlyfreespeech.net" xmlUrl="http://blog.nearlyfreespeech.net/feed/"/>
       <outline type="rss" title="Phusion Corporate Blog" text="Phusion Corporate Blog" htmlUrl="http://blog.phusion.nl" xmlUrl="http://blog.phusion.nl/feed/"/>
       <outline type="rss" title="Pinboard" text="Pinboard" htmlUrl="https://blog.pinboard.in/" xmlUrl="https://blog.pinboard.in/feed/"/>
@@ -295,7 +294,6 @@
       <outline type="rss" title="tapadoo" text="tapadoo" htmlUrl="http://tapadoo.com" xmlUrl="http://tapadoo.com/feed/"/>
       <outline type="rss" title="Tapbots Blog" text="Tapbots Blog" htmlUrl="http://tapbots.com/blog" xmlUrl="http://tapbots.com/blog/feed"/>
       <outline type="rss" title="The Circle Blog" text="The Circle Blog" htmlUrl="http://blog.circleci.com" xmlUrl="http://blog.circleci.com/feed/"/>
-      <outline type="rss" title="The Codeship Blog" text="The Codeship Blog" htmlUrl="http://blog.codeship.com" xmlUrl="http://blog.codeship.com/feed/"/>
       <outline type="rss" title="The Contrast Blog" text="The Contrast Blog" htmlUrl="http://contrast.ie/blog" xmlUrl="http://contrast.ie/blog/feed/atom/"/>
       <outline type="rss" title="The GitHub Blog" text="The GitHub Blog" htmlUrl="https://github.com/blog" xmlUrl="https://github.com/blog/all.atom"/>
       <outline type="rss" title="The Mailgun Blog" text="The Mailgun Blog" htmlUrl="http://blog.mailgun.com" xmlUrl="http://blog.mailgun.com/feed/"/>
