@@ -401,6 +401,7 @@
       <outline type="rss" title="Paul Irish" text="Paul Irish" htmlUrl="http://www.paulirish.com/" xmlUrl="http://www.paulirish.com/atom.xml"/>
       <outline type="rss" title="Peter Barrett" text="Peter Barrett" htmlUrl="http://www.peterbarrett.ie/" xmlUrl="http://www.peterbarrett.ie/rss/"/>
       <outline type="rss" title="Phil Brookes" text="Phil Brookes" htmlUrl="http://www.bracketbrotherhood.com" xmlUrl="http://www.bracketbrotherhood.com/feed/"/>
+      <outline type="rss" title="Piotr Solnica" text="Piotr Solnica" htmlUrl="http://solnic.eu" xmlUrl="http://solnic.eu/feed.xml"/>
       <outline type="rss" title="Richard Schneeman" text="Richard Schneeman" htmlUrl="http://www.schneems.com/" xmlUrl="http://www.schneems.com/feed.xml"/>
       <outline type="rss" title="Robin Blandford" text="Robin Blandford" htmlUrl="http://www.robinblandford.com/" xmlUrl="http://www.robinblandford.com/blog?format=rss"/>
       <outline type="rss" title="Ross Duggan" text="Ross Duggan" htmlUrl="http://rossduggan.ie" xmlUrl="http://www.rossduggan.ie/feed/"/>
@@ -557,6 +558,7 @@
       <outline type="rss" title="Presentations by Kevin Holler // Speaker Deck" text="Presentations by Kevin Holler // Speaker Deck" htmlUrl="https://speakerdeck.com/kevinholler" xmlUrl="https://speakerdeck.com/kevinholler.atom"/>
       <outline type="rss" title="Presentations by Kyle Neath // Speaker Deck" text="Presentations by Kyle Neath // Speaker Deck" htmlUrl="https://speakerdeck.com/kneath" xmlUrl="https://speakerdeck.com/kneath.atom"/>
       <outline type="rss" title="Presentations by Lara Hogan // Speaker Deck" text="Presentations by Lara Hogan // Speaker Deck" htmlUrl="https://speakerdeck.com/lara" xmlUrl="https://speakerdeck.com/lara.atom"/>
+      <outline type="rss" title="Presentations by Piotr Solnica // Speaker Deck" text="Presentations by Piotr Solnica // Speaker Deck" htmlUrl="https://speakerdeck.com/solnic" xmlUrl="https://speakerdeck.com/solnic.atom"/>
       <outline type="rss" title="Presentations by Ross Duggan // Speaker Deck" text="Presentations by Ross Duggan // Speaker Deck" htmlUrl="https://speakerdeck.com/duggan" xmlUrl="https://speakerdeck.com/duggan.atom"/>
       <outline type="rss" title="Presentations by Sam Lambert // Speaker Deck" text="Presentations by Sam Lambert // Speaker Deck" htmlUrl="https://speakerdeck.com/samlambert" xmlUrl="https://speakerdeck.com/samlambert.atom"/>
       <outline type="rss" title="Presentations by Sam Saffron // Speaker Deck" text="Presentations by Sam Saffron // Speaker Deck" htmlUrl="https://speakerdeck.com/samsaffron" xmlUrl="https://speakerdeck.com/samsaffron.atom"/>
