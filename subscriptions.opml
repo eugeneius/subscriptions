@@ -309,6 +309,7 @@
     <outline title="Developers" text="Developers">
       <outline type="rss" title="Aaron Jensen" text="Aaron Jensen" htmlUrl="http://aaron-jensen.com/" xmlUrl="http://aaron-jensen.com/rss"/>
       <outline type="rss" title="Aaron Patterson" text="Aaron Patterson" htmlUrl="http://tenderlovemaking.com/" xmlUrl="http://tenderlovemaking.com/atom.xml"/>
+      <outline type="rss" title="Adam Hawkins" text="Adam Hawkins" htmlUrl="http://hawkins.io/" xmlUrl="http://hawkins.io/rss.xml"/>
       <outline type="rss" title="Adam Langley" text="Adam Langley" htmlUrl="https://www.imperialviolet.org/" xmlUrl="https://www.imperialviolet.org/iv-rss.xml"/>
       <outline type="rss" title="Adam Ochonicki" text="Adam Ochonicki" htmlUrl="http://fromonesrc.com/" xmlUrl="http://fromonesrc.com/atom.xml"/>
       <outline type="rss" title="Aidan Finn" text="Aidan Finn" htmlUrl="http://www.aidanf.net" xmlUrl="http://www.aidanf.net/posts?format=rss"/>
@@ -537,6 +538,7 @@
     </outline>
     <outline title="Speakerdeck" text="Speakerdeck">
       <outline type="rss" title="Presentations by Aaron Suggs // Speaker Deck" text="Presentations by Aaron Suggs // Speaker Deck" htmlUrl="https://speakerdeck.com/ktheory" xmlUrl="https://speakerdeck.com/ktheory.atom"/>
+      <outline type="rss" title="Presentations by Adam Hawkins // Speaker Deck" text="Presentations by Adam Hawkins // Speaker Deck" htmlUrl="https://speakerdeck.com/ahawkins" xmlUrl="https://speakerdeck.com/ahawkins.atom"/>
       <outline type="rss" title="Presentations by Brandon Keepers // Speaker Deck" text="Presentations by Brandon Keepers // Speaker Deck" htmlUrl="https://speakerdeck.com/bkeepers" xmlUrl="https://speakerdeck.com/bkeepers.atom"/>
       <outline type="rss" title="Presentations by Burke Libbey // Speaker Deck" text="Presentations by Burke Libbey // Speaker Deck" htmlUrl="https://speakerdeck.com/burkelibbey" xmlUrl="https://speakerdeck.com/burkelibbey.atom"/>
       <outline type="rss" title="Presentations by Cameron McEfee // Speaker Deck" text="Presentations by Cameron McEfee // Speaker Deck" htmlUrl="https://speakerdeck.com/cameronmcefee" xmlUrl="https://speakerdeck.com/cameronmcefee.atom"/>
