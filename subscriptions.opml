@@ -309,6 +309,7 @@
     <outline title="Developers" text="Developers">
       <outline type="rss" title="Aaron Jensen" text="Aaron Jensen" htmlUrl="http://aaron-jensen.com/" xmlUrl="http://aaron-jensen.com/rss"/>
       <outline type="rss" title="Aaron Patterson" text="Aaron Patterson" htmlUrl="http://tenderlovemaking.com/" xmlUrl="http://tenderlovemaking.com/atom.xml"/>
+      <outline type="rss" title="Adam Langley" text="Adam Langley" htmlUrl="https://www.imperialviolet.org/" xmlUrl="https://www.imperialviolet.org/iv-rss.xml"/>
       <outline type="rss" title="Adam Ochonicki" text="Adam Ochonicki" htmlUrl="http://fromonesrc.com/" xmlUrl="http://fromonesrc.com/atom.xml"/>
       <outline type="rss" title="Aidan Finn" text="Aidan Finn" htmlUrl="http://www.aidanf.net" xmlUrl="http://www.aidanf.net/posts?format=rss"/>
       <outline type="rss" title="Alex MacCaw" text="Alex MacCaw" htmlUrl="http://blog.alexmaccaw.com" xmlUrl="http://blog.alexmaccaw.com/feed"/>
