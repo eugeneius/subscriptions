@@ -271,6 +271,7 @@
       <outline type="rss" title="Feedbin Blog" text="Feedbin Blog" htmlUrl="http://blog.feedbin.me" xmlUrl="http://blog.feedbin.me/atom.xml"/>
       <outline type="rss" title="Fog Creek Blog" text="Fog Creek Blog" htmlUrl="http://blog.fogcreek.com" xmlUrl="http://blog.fogcreek.com/feed/"/>
       <outline type="rss" title="Gemnasium" text="Gemnasium" htmlUrl="http://blog.gemnasium.com" xmlUrl="http://blog.gemnasium.com/rss"/>
+      <outline type="rss" title="GitHub Engineering" text="GitHub Engineering" htmlUrl="http://githubengineering.com" xmlUrl="http://githubengineering.com/atom.xml"/>
       <outline type="rss" title="GitHub on YouTube" text="GitHub on YouTube" htmlUrl="https://www.youtube.com/github/videos" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=github"/>
       <outline type="rss" title="GitHub Showcases" text="GitHub Showcases" htmlUrl="https://github.com/showcases" xmlUrl="https://github.com/showcases.atom"/>
       <outline type="rss" title="Inside Intercom" text="Inside Intercom" htmlUrl="http://blog.intercom.io" xmlUrl="http://blog.intercom.io/feed/"/>
