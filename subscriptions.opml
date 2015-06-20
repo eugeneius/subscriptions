@@ -649,6 +649,7 @@
       <outline type="rss" title="Gmail Blog" text="Gmail Blog" htmlUrl="http://gmailblog.blogspot.com/" xmlUrl="http://gmailblog.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="Google Reader Blog" text="Google Reader Blog" htmlUrl="http://googlereader.blogspot.com/" xmlUrl="http://googlereader.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="Hut 8 Labs" text="Hut 8 Labs" htmlUrl="http://blog.hut8labs.com/" xmlUrl="http://blog.hut8labs.com/feeds/all.atom.xml"/>
+      <outline type="rss" title="Incidental Complexity" text="Incidental Complexity" htmlUrl="http://incidentalcomplexity.com" xmlUrl="http://incidentalcomplexity.com/atom.xml"/>
       <outline type="rss" title="Jeff Lindsay" text="Jeff Lindsay" htmlUrl="http://progrium.com" xmlUrl="http://progrium.com/blog/atom.xml"/>
       <outline type="rss" title="Joel on Software" text="Joel on Software" htmlUrl="http://www.joelonsoftware.com" xmlUrl="http://www.joelonsoftware.com/rss.xml"/>
       <outline type="rss" title="Light Table Blog" text="Light Table Blog" htmlUrl="http://lighttable.com" xmlUrl="http://lighttable.com/atom.xml"/>
