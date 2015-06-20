@@ -651,6 +651,7 @@
       <outline type="rss" title="Hut 8 Labs" text="Hut 8 Labs" htmlUrl="http://blog.hut8labs.com/" xmlUrl="http://blog.hut8labs.com/feeds/all.atom.xml"/>
       <outline type="rss" title="Jeff Lindsay" text="Jeff Lindsay" htmlUrl="http://progrium.com" xmlUrl="http://progrium.com/blog/atom.xml"/>
       <outline type="rss" title="Joel on Software" text="Joel on Software" htmlUrl="http://www.joelonsoftware.com" xmlUrl="http://www.joelonsoftware.com/rss.xml"/>
+      <outline type="rss" title="Light Table Blog" text="Light Table Blog" htmlUrl="http://lighttable.com" xmlUrl="http://lighttable.com/atom.xml"/>
       <outline type="rss" title="Martin Fjordvald" text="Martin Fjordvald" htmlUrl="http://blog.martinfjordvald.com" xmlUrl="http://blog.martinfjordvald.com/feed/"/>
       <outline type="rss" title="One Div Zero" text="One Div Zero" htmlUrl="http://james-iry.blogspot.com/" xmlUrl="http://james-iry.blogspot.com/feeds/posts/default"/>
       <outline type="rss" title="paperplanes" text="paperplanes" htmlUrl="http://www.paperplanes.de" xmlUrl="http://www.paperplanes.de/atom.xml"/>
