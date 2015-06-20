@@ -328,6 +328,7 @@
       <outline type="rss" title="Brandon Weiss" text="Brandon Weiss" htmlUrl="http://anti-pattern.com" xmlUrl="http://anti-pattern.com/feed"/>
       <outline type="rss" title="Brian Ford" text="Brian Ford" htmlUrl="http://brixen.io/" xmlUrl="http://brixen.io/feed/atom.xml"/>
       <outline type="rss" title="Brian Gordon" text="Brian Gordon" htmlUrl="http://briangordon.github.io/" xmlUrl="http://briangordon.github.io/atom.xml"/>
+      <outline type="rss" title="Bryan O'Sullivan" text="Bryan O'Sullivan" htmlUrl="http://www.serpentine.com/blog/" xmlUrl="http://www.serpentine.com/blog/feed/"/>
       <outline type="rss" title="Caleb Thompson" text="Caleb Thompson" htmlUrl="http://calebthompson.io" xmlUrl="http://calebthompson.io/atom.xml"/>
       <outline type="rss" title="Cap Watkins" text="Cap Watkins" htmlUrl="http://blog.capwatkins.com" xmlUrl="http://blog.capwatkins.com/feed"/>
       <outline type="rss" title="Chad Dickerson" text="Chad Dickerson" htmlUrl="http://blog.chaddickerson.com" xmlUrl="http://blog.chaddickerson.com/feed/"/>
