@@ -360,6 +360,7 @@
       <outline type="rss" title="Jacques Mattheij" text="Jacques Mattheij" htmlUrl="http://jacquesmattheij.com/" xmlUrl="http://jacquesmattheij.com/rss.xml"/>
       <outline type="rss" title="Jake Goulding" text="Jake Goulding" htmlUrl="http://jakegoulding.com/" xmlUrl="http://jakegoulding.com/atom.xml"/>
       <outline type="rss" title="Jan Lehnardt" text="Jan Lehnardt" htmlUrl="http://writing.jan.io/" xmlUrl="http://writing.jan.io/feed.xml"/>
+      <outline type="rss" title="Jason Dixon" text="Jason Dixon" htmlUrl="http://obfuscurity.com/" xmlUrl="http://obfuscurity.com/rss2.xml"/>
       <outline type="rss" title="Jason James" text="Jason James" htmlUrl="http://jasonjam.es/blog" xmlUrl="http://jasonjam.es/blog?format=rss"/>
       <outline type="rss" title="Jason Punyon" text="Jason Punyon" htmlUrl="http://jasonpunyon.com/" xmlUrl="http://jasonpunyon.com/atom.xml"/>
       <outline type="rss" title="Jay Kreps" text="Jay Kreps" htmlUrl="http://blog.empathybox.com/" xmlUrl="http://blog.empathybox.com/rss"/>
@@ -393,7 +394,6 @@
       <outline type="rss" title="Myron Marston" text="Myron Marston" htmlUrl="http://myronmars.to/n" xmlUrl="http://myronmars.to/n/atom.xml"/>
       <outline type="rss" title="Nate Berkopec" text="Nate Berkopec" htmlUrl="http://www.nateberkopec.com/" xmlUrl="http://www.nateberkopec.com/feed.xml"/>
       <outline type="rss" title="Nathan Kontny" text="Nathan Kontny" htmlUrl="http://ninjasandrobots.com" xmlUrl="http://ninjasandrobots.com/feed"/>
-      <outline type="rss" title="Jason Dixon" text="Jason Dixon" htmlUrl="http://obfuscurity.com/" xmlUrl="http://obfuscurity.com/rss2.xml"/>
       <outline type="rss" title="Oisín Hurley" text="Oisín Hurley" htmlUrl="http://oisinh.wordpress.com" xmlUrl="http://oisinh.wordpress.com/feed/"/>
       <outline type="rss" title="Olivier Lacan" text="Olivier Lacan" htmlUrl="http://olivierlacan.com" xmlUrl="http://olivierlacan.com/feed"/>
       <outline type="rss" title="Oren Dobzinski" text="Oren Dobzinski" htmlUrl="http://re-factor.com/" xmlUrl="http://re-factor.com/atom.xml"/>
