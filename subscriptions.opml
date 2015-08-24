@@ -335,6 +335,7 @@
       <outline type="rss" title="Chad Fowler" text="Chad Fowler" htmlUrl="http://chadfowler.com/" xmlUrl="http://chadfowler.com/atom.xml"/>
       <outline type="rss" title="Chris Dixon" text="Chris Dixon" htmlUrl="http://cdixon.org" xmlUrl="http://cdixon.org/feed/"/>
       <outline type="rss" title="Chris Granger" text="Chris Granger" htmlUrl="http://www.chris-granger.com" xmlUrl="http://www.chris-granger.com/atom.xml"/>
+      <outline type="rss" title="Chris McGrath" text="Chris McGrath" htmlUrl="http://chrismcg.com/" xmlUrl="http://chrismcg.com/feed.xml"/>
       <outline type="rss" title="Chris Wanstrath" text="Chris Wanstrath" htmlUrl="http://ozmm.org/" xmlUrl="http://ozmm.org/feed.xml"/>
       <outline type="rss" title="Coby Chapple" text="Coby Chapple" htmlUrl="http://cobyism.com/" xmlUrl="http://cobyism.com/atom.xml"/>
       <outline type="rss" title="Coda Hale" text="Coda Hale" htmlUrl="http://blog.codahale.com" xmlUrl="http://blog.codahale.com/feed/"/>
