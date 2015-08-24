@@ -592,6 +592,7 @@
       <outline type="rss" title="Nim Programming Language" text="Nim Programming Language" htmlUrl="http://nim-lang.org/news.html" xmlUrl="http://nim-lang.org/news.xml"/>
       <outline type="rss" title="Node.js Blog" text="Node.js Blog" htmlUrl="http://blog.nodejs.org/" xmlUrl="http://blog.nodejs.org/feed/"/>
       <outline type="rss" title="Official jQuery Blog" text="Official jQuery Blog" htmlUrl="http://blog.jquery.com" xmlUrl="http://blog.jquery.com/feed/"/>
+      <outline type="rss" title="OpenSSL Blog" text="OpenSSL Blog" htmlUrl="https://www.openssl.org/blog/" xmlUrl="https://www.openssl.org/blog/atom.xml"/>
       <outline type="rss" title="Rails Security" text="Rails Security" htmlUrl="https://groups.google.com/d/forum/rubyonrails-security" xmlUrl="https://groups.google.com/forum/feed/rubyonrails-security/topics/atom.xml"/>
       <outline type="rss" title="Riding Rails" text="Riding Rails" htmlUrl="http://weblog.rubyonrails.org/" xmlUrl="http://weblog.rubyonrails.org/feed/atom.xml"/>
       <outline type="rss" title="RSpec Blog" text="RSpec Blog" htmlUrl="http://rspec.info/blog/" xmlUrl="http://rspec.info/blog/feed.xml"/>
